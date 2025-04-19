@@ -5,18 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3227309b-f553-4b8d-a54f-d5902a622021" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CRUD_database_jugador.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CRUD_database_player.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db_jugador2.0.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/operations_database.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/attacking_1.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/defending_1.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/disciplynary_1.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goalkeeping_1.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jugador.py" beforeDir="false" afterPath="$PROJECT_DIR$/jugador.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/player.py" beforeDir="false" afterPath="$PROJECT_DIR$/player.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CRUD_database_jugador.py" beforeDir="false" afterPath="$PROJECT_DIR$/CRUD_database_jugador.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jugador.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,7 +168,7 @@
       <workItem from="1744139346086" duration="969000" />
       <workItem from="1744248226695" duration="11100000" />
       <workItem from="1744381312329" duration="8242000" />
-      <workItem from="1745033042472" duration="342000" />
+      <workItem from="1745033042472" duration="1436000" />
     </task>
     <servers />
   </component>

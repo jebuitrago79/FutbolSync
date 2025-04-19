@@ -1,1 +1,924 @@
-id,name,age,nationality,height,team,position,dorsal,goalkeeper,goals,assists,yellow_cards,red_cards,saves
+id,name,age,nationality,height,team,position,dorsal,goalkeeper,goals,assists,yellow_cards,red_cards,saved,conceded
+1,Aaron Ramsey,30,Wales,183,Juventus,Midfielder,8,False,70,81,0,0,0,0
+2,Aaron Wan-Bissaka,23,England,183,Manchester United,Defender,29,False,52,69,0,0,0,0
+3,Abdou Diallo,25,Senegal,187,Paris Saint-Germain,Defender,22,False,39,71,0,0,0,0
+4,Abdul Malik Abubakari,21,Ghana,184,Malmö FF,Forward,17,False,61,44,0,0,0,0
+5,Achraf Hakimi Mouh,22,Morocco,181,Paris Saint-Germain,Defender,2,False,71,78,0,0,0,0
+6,Adam Jakubech,24,Slovakia,188,LOSC Lille,Goalkeeper,16,False,0,0,0,0,0,0
+7,Adel Taarabt,32,Morocco,180,SL Benfica,Midfielder,49,False,69,77,0,0,0,0
+8,Adi Nalić,23,Bosnia and Herzegovina,190,Malmö FF,Midfielder,22,False,62,58,0,0,0,0
+9,Adilson Angel Abreu de Almeida Gomes,20,England,168,LOSC Lille,Midfielder,20,False,70,69,0,0,0,0
+10,Admir Mehmedi,30,Switzerland,183,VfL Wolfsburg,Midfielder,14,False,74,70,0,0,0,0
+11,Adrián de la Fuente Barquilla,22,Spain,179,Villarreal CF,Defender,37,False,39,50,0,0,0,0
+12,Adrián San Miguel del Castillo,34,Spain,190,Liverpool,Goalkeeper,13,False,0,0,0,0,0,0
+13,Adrien Rabiot,26,France,192,Juventus,Midfielder,25,False,74,76,0,0,0,0
+14,Agustín Federico Marchesín,33,Argentina,188,FC Porto,Goalkeeper,1,False,0,0,0,0,0,0
+15,Aïssa Mandi,29,Algeria,184,Villarreal CF,Defender,22,False,46,74,0,0,0,0
+16,Aka Wilfried Kanga,23,France,189,BSC Young Boys,Forward,9,False,63,59,0,0,0,0
+17,Albert Vallçi,25,Austria,191,FC Red Bull Salzburg,Defender,5,False,57,60,0,0,0,0
+18,Alberto Moreno Pérez,28,Spain,171,Villarreal CF,Defender,18,False,66,68,0,0,0,0
+19,Alberto Moreno Rebanal,19,Spain,175,Atlético de Madrid,Midfielder,34,False,59,63,0,0,0,0
+20,Alejandro Balde Martínez,17,Spain,175,FC Barcelona,Defender,31,False,35,53,0,0,0,0
+21,Alejandro Darío Gómez,33,Argentina,167,Sevilla FC,Midfielder,24,False,78,84,0,0,0,0
+22,Alejandro Grimaldo García,25,Spain,171,SL Benfica,Defender,3,False,65,81,0,0,0,0
+23,Alejandro Iturbe Encabo,17,Spain,184,Atlético de Madrid,Goalkeeper,31,False,0,0,0,0,0,0
+24,Aleksandar Kolarov,35,Serbia,187,Inter,Defender,11,False,74,79,0,0,0,0
+25,Aleksey Miranchuk,25,Russia,182,Atalanta,Midfielder,59,False,70,76,0,0,0,0
+26,Alessandro Bastoni,22,Italy,190,Inter,Defender,95,False,33,65,0,0,0,0
+27,Alessandro Florenzi,30,Italy,173,AC Milan,Defender,25,False,77,79,0,0,0,0
+28,Alessandro Plizzari,21,Italy,187,AC Milan,Goalkeeper,77,False,0,0,0,0,0,0
+29,Alessio Romagnoli,26,Italy,185,AC Milan,Defender,13,False,40,56,0,0,0,0
+30,Álex Collado Gutiérrez,22,Spain,177,FC Barcelona,Midfielder,32,False,65,70,0,0,0,0
+31,Alex Cordaz,38,Italy,188,Inter,Goalkeeper,21,False,0,0,0,0,0,0
+32,Alex Nicolao Telles,28,Brazil,181,Manchester United,Defender,27,False,73,82,0,0,0,0
+33,Alex Oxlade-Chamberlain,27,England,175,Liverpool,Midfielder,15,False,74,77,0,0,0,0
+34,Alex Sandro Lobo Silva,30,Brazil,180,Juventus,Defender,12,False,65,77,0,0,0,0
+35,Alexander Walke,38,Germany,189,FC Red Bull Salzburg,Goalkeeper,33,False,0,0,0,0,0,0
+36,Alexandre Letellier,30,France,193,Paris Saint-Germain,Goalkeeper,60,False,0,0,0,0,0,0
+37,Alexandre Tounde Dimitri Jankewitz,19,Switzerland,185,BSC Young Boys,Midfielder,11,False,56,60,0,0,0,0
+38,Alexis Alejandro Sánchez Sánchez,32,Chile,168,Inter,Forward,7,False,76,78,0,0,0,0
+39,Alexis Saelemaekers,22,Belgium,180,AC Milan,Midfielder,56,False,66,74,0,0,0,0
+40,Alfonso Pastor Vacas,20,Spain,190,Sevilla FC,Goalkeeper,33,False,0,0,0,0,0,0
+41,Alfonso Pedraza Sag,25,Spain,184,Villarreal CF,Defender,24,False,72,70,0,0,0,0
+42,Alisson Ramsés Becker,28,Brazil,191,Liverpool,Goalkeeper,1,False,0,0,0,0,0,0
+43,Alphonso Boyle Davies,20,Canada,183,FC Bayern München,Defender,19,False,67,71,0,0,0,0
+44,Aluísio Chaves Ribeiro Moraes Júnior,34,Ukraine,176,Shakhtar Donetsk,Forward,10,False,79,60,0,0,0,0
+45,Álvaro Borja Morata Martín,28,Spain,190,Juventus,Forward,9,False,80,72,0,0,0,0
+46,Amad Diallo Traoré,18,Côte d'Ivoire,173,Manchester United,Midfielder,16,False,63,57,0,0,0,0
+47,Amadou Haïdara,23,Mali,175,RB Leipzig,Midfielder,8,False,72,76,0,0,0,0
+48,Amadou Zeund Georges Ba Mvom Onana,19,Belgium,195,LOSC Lille,Midfielder,24,False,53,61,0,0,0,0
+49,Amer Gojak,24,Bosnia and Herzegovina,184,Dinamo Zagreb,Midfielder,8,False,66,67,0,0,0,0
+50,Anatoliy Trubin,19,Ukraine,198,Shakhtar Donetsk,Goalkeeper,81,False,0,0,0,0,0,0
+51,Ander Herrera Agüera,31,Spain,182,Paris Saint-Germain,Midfielder,21,False,70,77,0,0,0,0
+52,Anders Christiansen,31,Denmark,175,Malmö FF,Midfielder,10,False,72,73,0,0,0,0
+53,André Filipe Eusébio Paulo,24,Portugal,188,Sporting CP,Goalkeeper,22,False,0,0,0,0,0,0
+54,André Gomes Magalhães de Almeida,30,Portugal,186,SL Benfica,Defender,34,False,63,75,0,0,0,0
+55,André Miguel Valente da Silva,25,Portugal,185,RB Leipzig,Forward,33,False,84,69,0,0,0,0
+56,André Ramalho Silva,29,Brazil,182,PSV,Defender,5,False,60,66,0,0,0,0
+57,Andrea Conti,27,Italy,184,AC Milan,Defender,14,False,58,69,0,0,0,0
+58,Andrea Ranocchia,33,Italy,195,Inter,Defender,13,False,32,57,0,0,0,0
+59,Andreas Bødtker Christensen,25,Denmark,187,Chelsea,Defender,4,False,31,65,0,0,0,0
+60,Andreas Ulmer,35,Austria,175,FC Red Bull Salzburg,Defender,17,False,63,70,0,0,0,0
+61,Andrés Felipe Solano Dávila,23,Colombia,176,Atlético de Madrid,Defender,32,False,35,54,0,0,0,0
+62,Andrés Mateus Uribe Villa,30,Colombia,182,FC Porto,Midfielder,8,False,74,75,0,0,0,0
+63,Andrew Robertson,27,Scotland,178,Liverpool,Defender,26,False,61,81,0,0,0,0
+64,Andriy Lunin,22,Ukraine,192,Real Madrid CF,Goalkeeper,13,False,0,0,0,0,0,0
+65,Andriy Pyatov,37,Ukraine,190,Shakhtar Donetsk,Goalkeeper,30,False,0,0,0,0,0,0
+66,Anel Ahmedhodžić,22,Bosnia and Herzegovina,192,Malmö FF,Defender,15,False,32,59,0,0,0,0
+67,Ángel Fabián Di María Hernández,33,Argentina,180,Paris Saint-Germain,Forward,11,False,81,86,0,0,0,0
+68,Ángel Martín Correa,26,Argentina,171,Atlético de Madrid,Midfielder,10,False,83,78,0,0,0,0
+69,Anselmo Garcia MacNulty,18,Republic of Ireland,187,VfL Wolfsburg,Defender,18,False,35,41,0,0,0,0
+70,Ansgar Knauff,19,Germany,180,Borussia Dortmund,Midfielder,36,False,55,59,0,0,0,0
+71,Anssumane Fati,18,Spain,178,FC Barcelona,Forward,10,False,74,68,0,0,0,0
+72,Ante Rebić,27,Croatia,185,AC Milan,Midfielder,12,False,83,75,0,0,0,0
+73,Anthony David Junior Elanga,19,Sweden,180,Manchester United,Midfielder,36,False,60,58,0,0,0,0
+74,Anthony Martial,25,France,184,Manchester United,Midfielder,9,False,80,73,0,0,0,0
+75,Antoine Griezmann,30,France,176,Atlético de Madrid,Forward,17,False,84,84,0,0,0,0
+76,Antoine Joseph Emmanuel Bernède,22,France,177,FC Red Bull Salzburg,Midfielder,10,False,59,67,0,0,0,0
+77,Anton Ciprian Tătărușanu,35,Romania,198,AC Milan,Goalkeeper,1,False,0,0,0,0,0,0
+78,Antonio Adán Garrido,34,Spain,190,Sporting CP,Goalkeeper,1,False,0,0,0,0,0,0
+79,Antonio Blanco Conde,20,Spain,176,Real Madrid CF,Midfielder,27,False,56,67,0,0,0,0
+80,Antonio Martínez López,24,Spain,187,FC Porto,Forward,29,False,77,58,0,0,0,0
+81,Antonio Rüdiger,28,Germany,190,Chelsea,Defender,2,False,43,68,0,0,0,0
+82,Antonio Zarzana Pérez,19,Spain,177,Sevilla FC,Midfielder,30,False,51,65,0,0,0,0
+83,Antonio-Mirko Čolak,27,Croatia,188,Malmö FF,Forward,9,False,73,55,0,0,0,0
+84,Antony Matheus dos Santos,21,Brazil,174,Ajax,Forward,11,False,72,72,0,0,0,0
+85,Arijan Ademi,30,North Macedonia,185,Dinamo Zagreb,Midfielder,5,False,64,65,0,0,0,0
+86,Ar'jany Martha,17,Netherlands,180,Ajax,Forward,42,False,55,56,0,0,0,0
+87,Armando Obispo,22,Netherlands,185,PSV,Defender,4,False,42,57,0,0,0,0
+88,Armindo Tué Na Bangna,26,Portugal,173,PSV,Midfielder,19,False,71,69,0,0,0,0
+89,Arnau Tenas Ureña,20,Spain,185,FC Barcelona,Goalkeeper,36,False,0,0,0,0,0,0
+90,Arnaut Danjuma Groeneveld,24,Netherlands,178,Villarreal CF,Midfielder,15,False,73,70,0,0,0,0
+91,Aron van Lare,18,Netherlands,190,PSV,Goalkeeper,41,False,0,0,0,0,0,0
+92,Artem Besedin,25,Ukraine,185,Dynamo Kyiv,Forward,41,False,67,48,0,0,0,0
+93,Artem Bondarenko,20,Ukraine,188,Shakhtar Donetsk,Midfielder,15,False,54,55,0,0,0,0
+94,Artem Shabanov,29,Ukraine,190,Dynamo Kyiv,Defender,13,False,24,55,0,0,0,0
+95,Arthur Henrique Ramos de Oliveira Melo,24,Brazil,171,Juventus,Midfielder,5,False,67,83,0,0,0,0
+96,Arturo Erasmo Vidal Pardo,34,Chile,180,Inter,Midfielder,22,False,79,79,0,0,0,0
+97,Aster Jan Vranckx,18,Belgium,183,VfL Wolfsburg,Midfielder,8,False,57,65,0,0,0,0
+98,Axel Witsel,32,Belgium,186,Borussia Dortmund,Midfielder,28,False,72,81,0,0,0,0
+99,Aymeric Laporte,27,Spain,191,Manchester City,Defender,14,False,50,72,0,0,0,0
+100,Bandiougou Fadiga,20,France,178,Paris Saint-Germain,Midfielder,37,False,47,60,0,0,0,0
+101,Bartol Franjić,21,Croatia,188,Dinamo Zagreb,Defender,38,False,50,62,0,0,0,0
+102,Bartosz Białek,19,Poland,191,VfL Wolfsburg,Forward,21,False,67,46,0,0,0,0
+103,Bas Leon Dost,32,Netherlands,196,Club Brugge KV,Forward,29,False,79,57,0,0,0,0
+104,Ben Chilwell,24,England,178,Chelsea,Defender,21,False,53,77,0,0,0,0
+105,Ben Klefisch,18,Germany,179,RB Leipzig,Midfielder,46,False,45,59,0,0,0,0
+106,Benjamin André,30,France,180,LOSC Lille,Midfielder,21,False,64,74,0,0,0,0
+107,Benjamin Henrichs,24,Germany,183,RB Leipzig,Defender,39,False,53,71,0,0,0,0
+108,Benjamin Lecomte,30,France,187,Atlético de Madrid,Goalkeeper,1,False,0,0,0,0,0,0
+109,Benjamin Mendy,26,France,185,Manchester City,Defender,22,False,54,76,0,0,0,0
+110,Benjamin Pavard,25,France,186,FC Bayern München,Defender,5,False,53,72,0,0,0,0
+111,Benjamin Šeško,18,Slovenia,193,FC Red Bull Salzburg,Forward,30,False,67,60,0,0,0,0
+112,Benjamin Verbič,27,Slovenia,179,Dynamo Kyiv,Midfielder,7,False,72,72,0,0,0,0
+113,Berat Djimsiti,28,Albania,190,Atalanta,Defender,19,False,39,59,0,0,0,0
+114,Bernardo Fernandes da Silva Junior,26,Brazil,186,FC Red Bull Salzburg,Defender,95,False,49,61,0,0,0,0
+115,Bernardo Mota Veiga de Carvalho e Silva,26,Portugal,173,Manchester City,Midfielder,20,False,76,83,0,0,0,0
+116,Billy Koumetio,18,France,195,Liverpool,Defender,89,False,32,41,0,0,0,0
+117,Bogdan Lednev,23,Ukraine,173,Dynamo Kyiv,Midfielder,17,False,72,72,0,0,0,0
+118,Bonke Innocent,25,Nigeria,178,Malmö FF,Midfielder,20,False,43,54,0,0,0,0
+119,Boulaye Dia,24,Senegal,180,Villarreal CF,Forward,16,False,77,55,0,0,0,0
+120,Bouna Sarr,29,France,177,FC Bayern München,Defender,20,False,70,73,0,0,0,0
+121,Brahim Abdelkader Díaz,21,Spain,171,AC Milan,Midfielder,10,False,69,76,0,0,0,0
+122,Brandon Mechele,28,Belgium,190,Club Brugge KV,Defender,44,False,38,50,0,0,0,0
+123,Brenden Russell Aaronson,20,United States,176,FC Red Bull Salzburg,Midfielder,11,False,62,63,0,0,0,0
+124,Brian Ebenezer Adjei Brobbey,19,Netherlands,180,RB Leipzig,Forward,21,False,71,54,0,0,0,0
+125,Bruno Ferreira Bonfim,32,Brazil,176,Shakhtar Donetsk,Forward,9,False,69,66,0,0,0,0
+126,Bruno Miguel Borges Fernandes,26,Portugal,179,Manchester United,Midfielder,18,False,86,89,0,0,0,0
+127,Bruno Petković,26,Croatia,193,Dinamo Zagreb,Midfielder,21,False,72,75,0,0,0,0
+128,Bruno Vinícius Souza Ramos,24,Brazil,175,Sporting CP,Forward,7,False,67,71,0,0,0,0
+129,Bruno Xavier Almeida Costa,24,Portugal,174,FC Porto,Midfielder,28,False,73,75,0,0,0,0
+130,Bryan Okoh,18,Switzerland,187,FC Red Bull Salzburg,Defender,3,False,31,53,0,0,0,0
+131,Burak Yılmaz,35,Turkey,188,LOSC Lille,Forward,17,False,83,69,0,0,0,0
+132,Callum Hudson-Odoi,20,England,178,Chelsea,Forward,20,False,67,74,0,0,0,0
+133,Calvin Owen Harm Raatsie,19,Netherlands,188,Ajax,Goalkeeper,52,False,0,0,0,0,0,0
+134,Caoimhin Kelleher,22,Republic of Ireland,188,Liverpool,Goalkeeper,62,False,0,0,0,0,0,0
+135,Carlo Pinsoglio,31,Italy,194,Juventus,Goalkeeper,23,False,0,0,0,0,0,0
+136,Carlos Henrique Venancio Casimiro,29,Brazil,185,Real Madrid CF,Midfielder,14,False,73,76,0,0,0,0
+137,Carlos Joaquín Correa,26,Argentina,189,Inter,Midfielder,19,False,75,77,0,0,0,0
+138,Carlos María de Pena Bonino,29,Uruguay,177,Dynamo Kyiv,Midfielder,14,False,69,74,0,0,0,0
+139,Carlos Vinícius Alves Morais,26,Brazil,190,PSV,Forward,9,False,78,60,0,0,0,0
+140,Cédric Zesiger,23,Switzerland,194,BSC Young Boys,Defender,5,False,32,47,0,0,0,0
+141,César Azpilicueta Tanco,31,Spain,178,Chelsea,Defender,28,False,55,76,0,0,0,0
+142,Chancel Mbemba Mangulu,26,Congo DR,182,FC Porto,Defender,19,False,53,56,0,0,0,0
+143,Charles De Ketelaere,20,Belgium,192,Club Brugge KV,Midfielder,90,False,72,75,0,0,0,0
+144,Charlie Setford,17,England,193,Ajax,Goalkeeper,51,False,0,0,0,0,0,0
+145,Charly Musonda Junior,24,Belgium,173,Chelsea,Midfielder,34,False,63,69,0,0,0,0
+146,Cheikh Ahmet Tidian Niasse,21,Senegal,188,LOSC Lille,Defender,27,False,44,59,0,0,0,0
+147,Christ-Emmanuel Faitout Maouassa,22,France,170,Club Brugge KV,Defender,11,False,64,71,0,0,0,0
+148,Christian Dannemann Eriksen,29,Denmark,181,Inter,Midfielder,24,False,78,88,0,0,0,0
+149,Christian Fassnacht,27,Switzerland,185,BSC Young Boys,Midfielder,16,False,70,69,0,0,0,0
+150,Christian Früchtl,21,Germany,193,FC Bayern München,Goalkeeper,36,False,0,0,0,0,0,0
+151,Christian Gómez Vela,21,Spain,187,Atlético de Madrid,Goalkeeper,28,False,0,0,0,0,0,0
+152,Christian Mate Pulisic,22,United States,177,Chelsea,Midfielder,10,False,70,73,0,0,0,0
+153,Christopher Martins Pereira,24,Luxembourg,187,BSC Young Boys,Midfielder,35,False,54,62,0,0,0,0
+154,Christopher Nkunku,23,France,179,RB Leipzig,Midfielder,18,False,74,81,0,0,0,0
+155,Chukwunonso Tristan Madueke,19,England,182,PSV,Midfielder,10,False,71,68,0,0,0,0
+156,Cisse Sandra,17,Belgium,183,Club Brugge KV,Midfielder,98,False,60,61,0,0,0,0
+157,Cláudio Pires de Morais Ramos,29,Portugal,183,FC Porto,Goalkeeper,14,False,0,0,0,0,0,0
+158,Clément Nicolas Laurent Lenglet,26,France,186,FC Barcelona,Defender,15,False,45,67,0,0,0,0
+159,Clinton Mukoni Mata Pedro Lourenço,28,Angola,180,Club Brugge KV,Defender,77,False,61,68,0,0,0,0
+160,Cody Mathès Gakpo,22,Netherlands,189,PSV,Midfielder,11,False,78,74,0,0,0,0
+161,Cole Palmer,19,England,189,Manchester City,Midfielder,80,False,58,60,0,0,0,0
+162,Colin Dagba,22,France,170,Paris Saint-Germain,Defender,17,False,53,70,0,0,0,0
+163,Corentin Tolisso,26,France,181,FC Bayern München,Midfielder,24,False,77,77,0,0,0,0
+164,Cristiano Ronaldo dos Santos Aveiro,36,Portugal,187,Manchester United,Forward,7,False,94,80,0,0,0,0
+165,Curtis Jones,20,England,185,Liverpool,Midfielder,17,False,65,70,0,0,0,0
+166,Daley Blind,31,Netherlands,180,Ajax,Defender,17,False,64,82,0,0,0,0
+167,Dan-Axel Zagadou,22,France,196,Borussia Dortmund,Defender,5,False,34,61,0,0,0,0
+168,Daniel Alejandro Pérez Córdova,19,Venezuela,189,Club Brugge KV,Forward,30,False,67,40,0,0,0,0
+169,Daniel Carvajal Ramos,29,Spain,173,Real Madrid CF,Defender,2,False,54,78,0,0,0,0
+170,Daniel Ceballos Fernández,24,Spain,179,Real Madrid CF,Midfielder,19,False,68,77,0,0,0,0
+171,Daniel Ginczek,30,Germany,190,VfL Wolfsburg,Forward,33,False,74,51,0,0,0,0
+172,Daniel Maldini,19,Italy,186,AC Milan,Midfielder,27,False,51,59,0,0,0,0
+173,Daniel Olmo Carvajal,23,Spain,179,RB Leipzig,Midfielder,25,False,76,81,0,0,0,0
+174,Daniel Parejo Muñoz,32,Spain,182,Villarreal CF,Midfielder,5,False,83,90,0,0,0,0
+175,Daniel Raba Antolín,25,Spain,184,Villarreal CF,Midfielder,17,False,71,72,0,0,0,0
+176,Daniel Santos Bragança,22,Portugal,169,Sporting CP,Midfielder,68,False,66,75,0,0,0,0
+177,Daniel Štefulj,21,Croatia,186,Dinamo Zagreb,Defender,3,False,50,57,0,0,0,0
+178,Daniele Rugani,26,Italy,190,Juventus,Defender,24,False,40,55,0,0,0,0
+179,Danijel Zagorac,34,Croatia,186,Dinamo Zagreb,Goalkeeper,1,False,0,0,0,0,0,0
+180,Danilo D'Ambrosio,32,Italy,180,Inter,Defender,33,False,56,67,0,0,0,0
+181,Danilo Luís Hélio Pereira,29,Portugal,188,Paris Saint-Germain,Midfielder,15,False,63,71,0,0,0,0
+182,Danilo Luiz da Silva,29,Brazil,184,Juventus,Defender,6,False,67,73,0,0,0,0
+183,Danilo Pereira Da Silva,22,Brazil,174,Ajax,Forward,9,False,70,58,0,0,0,0
+184,Dante Rigo,22,Belgium,180,PSV,Midfielder,34,False,58,69,0,0,0,0
+185,Danylo Sikan,20,Ukraine,185,Shakhtar Donetsk,Forward,45,False,65,47,0,0,0,0
+186,Daouda Guindo,18,Mali,183,FC Red Bull Salzburg,Defender,37,False,28,51,0,0,0,0
+187,Dario Špikić,22,Croatia,183,Dinamo Zagreb,Midfielder,77,False,65,64,0,0,0,0
+188,Darwin Gabriel Núñez Ribeiro,22,Uruguay,187,SL Benfica,Forward,9,False,75,69,0,0,0,0
+189,David De Gea Quintana,30,Spain,192,Manchester United,Goalkeeper,1,False,0,0,0,0,0,0
+190,David Lelle,18,Germany,178,RB Leipzig,Defender,52,False,32,36,0,0,0,0
+191,David Neres Campos,24,Brazil,176,Ajax,Forward,7,False,72,73,0,0,0,0
+192,David Olatukunbo Alaba,29,Austria,180,Real Madrid CF,Defender,4,False,70,81,0,0,0,0
+193,David Petrus Wenceslaus Henri Pröpper,29,Netherlands,185,PSV,Midfielder,14,False,70,76,0,0,0,0
+194,David von Ballmoos,26,Switzerland,192,BSC Young Boys,Goalkeeper,26,False,0,0,0,0,0,0
+195,Davide Calabria,24,Italy,177,AC Milan,Defender,2,False,50,67,0,0,0,0
+196,Davide Zappacosta,29,Italy,182,Atalanta,Defender,77,False,66,73,0,0,0,0
+197,Davy Klaassen,28,Netherlands,179,Ajax,Midfielder,6,False,80,73,0,0,0,0
+198,Dayotchanculle Oswald Upamecano,22,France,186,FC Bayern München,Defender,2,False,43,62,0,0,0,0
+199,Dean Henderson,24,England,188,Manchester United,Goalkeeper,26,False,0,0,0,0,0,0
+200,Dejan Kulusevski,21,Sweden,186,Juventus,Forward,44,False,74,77,0,0,0,0
+201,Deni Jurić,23,Australia,188,Dinamo Zagreb,Midfielder,39,False,69,53,0,0,0,0
+202,Denys Antyukh,23,Ukraine,183,Dynamo Kyiv,Midfielder,99,False,46,57,0,0,0,0
+203,Denys Boyko,33,Ukraine,197,Dynamo Kyiv,Goalkeeper,71,False,0,0,0,0,0,0
+204,Denys Garmash,31,Ukraine,186,Dynamo Kyiv,Midfielder,19,False,72,73,0,0,0,0
+205,Denys Popov,22,Ukraine,187,Dynamo Kyiv,Defender,4,False,38,46,0,0,0,0
+206,Denzel Justus Morris Dumfries,25,Netherlands,188,Inter,Defender,2,False,61,66,0,0,0,0
+207,Devyne Fabian Jairo Rensch,18,Netherlands,179,Ajax,Defender,15,False,55,64,0,0,0,0
+208,Diego Carlos Santos Silva,28,Brazil,185,Sevilla FC,Defender,20,False,47,63,0,0,0,0
+209,Dillon Hoogewerf,18,Netherlands,165,Manchester United,Midfielder,66,False,58,51,0,0,0,0
+210,Dinko Horkaš,22,Croatia,189,Dinamo Zagreb,Goalkeeper,23,False,0,0,0,0,0,0
+211,Dino Perić,26,Croatia,197,Dinamo Zagreb,Defender,55,False,33,44,0,0,0,0
+212,Diogo António Cupido Gonçalves,24,Portugal,178,SL Benfica,Defender,17,False,72,70,0,0,0,0
+213,Diogo José Teixeira da Silva,24,Portugal,178,Liverpool,Forward,20,False,81,73,0,0,0,0
+214,Diogo Meireles Costa,21,Portugal,187,FC Porto,Goalkeeper,99,False,0,0,0,0,0,0
+215,Divock Okoth Origi,26,Belgium,189,Liverpool,Forward,27,False,75,67,0,0,0,0
+216,Dodi Lukébakio,23,Belgium,187,VfL Wolfsburg,Midfielder,28,False,75,69,0,0,0,0
+217,Domagoj Bradarić,21,Croatia,178,LOSC Lille,Defender,29,False,55,68,0,0,0,0
+218,Domilson Cordeiro dos Santos,22,Brazil,166,Shakhtar Donetsk,Defender,2,False,58,64,0,0,0,0
+219,Dominik Livaković,26,Croatia,187,Dinamo Zagreb,Goalkeeper,40,False,0,0,0,0,0,0
+220,Dominik Szoboszlai,20,Hungary,186,RB Leipzig,Midfielder,17,False,78,79,0,0,0,0
+221,Donny van de Beek,24,Netherlands,184,Manchester United,Midfielder,34,False,78,76,0,0,0,0
+222,Donyell Malen,22,Netherlands,179,Borussia Dortmund,Forward,21,False,79,72,0,0,0,0
+223,Duje Čop,31,Croatia,184,Dinamo Zagreb,Forward,90,False,69,63,0,0,0,0
+224,Dušan Tadić,32,Serbia,181,Ajax,Midfielder,10,False,81,85,0,0,0,0
+225,Duván Esteban Zapata Banguera,30,Colombia,189,Atalanta,Forward,91,False,81,61,0,0,0,0
+226,Ebeguowen Owen Otasowie,20,United States,191,Club Brugge KV,Defender,8,False,46,57,0,0,0,0
+227,Eden Hazard,30,Belgium,175,Real Madrid CF,Forward,7,False,80,82,0,0,0,0
+228,Éder Fabián Álvarez Balanta,28,Colombia,181,Club Brugge KV,Defender,3,False,43,61,0,0,0,0
+229,Éder Gabriel Militão,23,Brazil,186,Real Madrid CF,Defender,3,False,50,69,0,0,0,0
+230,Ederson Santana de Moraes,27,Brazil,188,Manchester City,Goalkeeper,31,False,0,0,0,0,0,0
+231,Edin Džeko,35,Bosnia and Herzegovina,193,Inter,Forward,9,False,83,72,0,0,0,0
+232,Edinson Roberto Cavani Gómez,34,Uruguay,185,Manchester United,Forward,21,False,86,70,0,0,0,0
+233,Édouard Mendy,29,Senegal,197,Chelsea,Goalkeeper,16,False,0,0,0,0,0,0
+234,Édouard Michut,18,France,178,Paris Saint-Germain,Midfielder,38,False,53,64,0,0,0,0
+235,Edson Omar Álvarez Velázquez,23,Mexico,187,Ajax,Defender,4,False,53,66,0,0,0,0
+236,Eduard Sobol,26,Ukraine,186,Club Brugge KV,Defender,2,False,64,68,0,0,0,0
+237,Eduardo Camavinga,18,France,182,Real Madrid CF,Midfielder,25,False,65,76,0,0,0,0
+238,Eduardo Gabriel Aquino Cossa,24,Brazil,175,FC Porto,Forward,11,False,67,68,0,0,0,0
+239,Edward Campbell Sutherland,21,England,176,Atlético de Madrid,Midfielder,45,False,54,58,0,0,0,0
+240,Elijah Dixon-Bonner,20,England,180,Liverpool,Midfielder,45,False,51,56,0,0,0,0
+241,Emil Peter Forsberg,29,Sweden,177,RB Leipzig,Midfielder,10,False,73,82,0,0,0,0
+242,Emir Dilaver,30,Austria,184,Dinamo Zagreb,Defender,66,False,52,59,0,0,0,0
+243,Emre Can,27,Germany,186,Borussia Dortmund,Defender,23,False,78,78,0,0,0,0
+244,Eran Zahavi,33,Israel,182,PSV,Forward,7,False,82,74,0,0,0,0
+245,Erdal Rakip,25,Sweden,178,Malmö FF,Midfielder,7,False,58,63,0,0,0,0
+246,Eric Bertrand Bailly,27,Côte d'Ivoire,186,Manchester United,Defender,3,False,42,58,0,0,0,0
+247,Eric García Martret,20,Spain,182,FC Barcelona,Defender,24,False,44,65,0,0,0,0
+248,Eric Junior Dina Ebimbe,20,France,175,Paris Saint-Germain,Midfielder,36,False,61,68,0,0,0,0
+249,Eric Kleybel Ramírez Matheus,22,Venezuela,190,Dynamo Kyiv,Forward,9,False,66,46,0,0,0,0
+250,Eric Larsson,29,Sweden,176,Malmö FF,Defender,2,False,54,66,0,0,0,0
+251,Eric Uhlmann,18,Germany,176,RB Leipzig,Midfielder,51,False,47,55,0,0,0,0
+252,Érick Gabriel Gutiérrez Galaviz,26,Mexico,178,PSV,Midfielder,15,False,70,73,0,0,0,0
+253,Erik Lamela,29,Argentina,184,Sevilla FC,Midfielder,17,False,77,79,0,0,0,0
+254,Erling Braut Haaland,20,Norway,194,Borussia Dortmund,Forward,9,False,91,65,0,0,0,0
+255,Etienne Capoue,32,France,190,Villarreal CF,Midfielder,6,False,72,75,0,0,0,0
+256,Eugenio Pizzuto Puga,19,Mexico,179,LOSC Lille,Midfielder,15,False,43,54,0,0,0,0
+257,Eulânio Ângelo Chipela Gomes,27,Guinea Bissau,177,FC Porto,Defender,31,False,62,64,0,0,0,0
+258,Éverton Sousa Soares,25,Brazil,174,SL Benfica,Midfielder,7,False,75,73,0,0,0,0
+259,Fabian Lustenberger,33,Switzerland,182,BSC Young Boys,Defender,28,False,37,60,0,0,0,0
+260,Fabian Rieder,19,Switzerland,179,BSC Young Boys,Midfielder,32,False,54,64,0,0,0,0
+261,Fábio Daniel Ferreira Vieira,21,Portugal,170,FC Porto,Midfielder,50,False,69,73,0,0,0,0
+262,Fábio Henrique Tavares,27,Brazil,188,Liverpool,Defender,3,False,69,78,0,0,0,0
+263,Fábio Rafael Rodrigues Cardoso,27,Portugal,187,FC Porto,Defender,2,False,32,52,0,0,0,0
+264,Facundo Colidio,21,Argentina,179,Inter,Midfielder,49,False,67,63,0,0,0,0
+265,Federico Bernardeschi,27,Italy,185,Juventus,Midfielder,20,False,71,80,0,0,0,0
+266,Federico Chiesa,23,Italy,175,Juventus,Midfielder,22,False,81,74,0,0,0,0
+267,Federico Dimarco,23,Italy,175,Inter,Defender,32,False,61,75,0,0,0,0
+268,Federico Mattiello,25,Italy,184,Atalanta,Midfielder,14,False,64,70,0,0,0,0
+269,Federico Ricca Rostagnol,26,Uruguay,178,Club Brugge KV,Defender,18,False,52,60,0,0,0,0
+270,Federico Santiago Valverde Dipetta,22,Uruguay,182,Real Madrid CF,Midfielder,15,False,74,78,0,0,0,0
+271,Felipe Augusto de Almeida Monteiro,32,Brazil,190,Atlético de Madrid,Defender,18,False,41,58,0,0,0,0
+272,Felipe Rodrigues da Silva,20,Brazil,190,SL Benfica,Defender,91,False,35,51,0,0,0,0
+273,Felix Beijmo,23,Sweden,186,Malmö FF,Defender,14,False,37,53,0,0,0,0
+274,Felix Kalu Nmecha,20,England,185,VfL Wolfsburg,Midfielder,22,False,54,61,0,0,0,0
+275,Felix Khonde Mambimbi,20,Switzerland,171,BSC Young Boys,Midfielder,19,False,64,53,0,0,0,0
+276,Felix Passlack,23,Germany,170,Borussia Dortmund,Defender,30,False,60,67,0,0,0,0
+277,Ferland Mendy,26,France,180,Real Madrid CF,Defender,23,False,64,76,0,0,0,0
+278,Fernando Dos Santos Pedro,22,Brazil,176,Shakhtar Donetsk,Forward,99,False,69,59,0,0,0,0
+279,Fernando Francisco Reges,33,Brazil,183,Sevilla FC,Midfielder,25,False,62,75,0,0,0,0
+280,Fernando Luiz Rosa,36,Brazil,179,Manchester City,Defender,25,False,72,75,0,0,0,0
+281,Ferran Torres García,21,Spain,184,Manchester City,Forward,21,False,79,78,0,0,0,0
+282,Fikayo Tomori,23,England,185,AC Milan,Defender,23,False,37,57,0,0,0,0
+283,Filip Jörgensen,19,Sweden,189,Villarreal CF,Goalkeeper,35,False,0,0,0,0,0,0
+284,Flávio Basilua Jacinto Nazinho,17,Portugal,180,Sporting CP,Defender,71,False,33,53,0,0,0,0
+285,Fodé Ballo-Touré,24,Senegal,182,AC Milan,Defender,5,False,51,67,0,0,0,0
+286,Fodé Fofana,18,Netherlands,188,PSV,Forward,42,False,64,58,0,0,0,0
+287,Francesco Rossi,30,Italy,193,Atalanta,Goalkeeper,31,False,0,0,0,0,0,0
+288,Francis Coquelin,30,France,176,Villarreal CF,Midfielder,19,False,67,76,0,0,0,0
+289,Francisco Alcácer García,27,Spain,175,Villarreal CF,Forward,9,False,84,69,0,0,0,0
+290,Francisco Evanilson de Lima Barbosa,21,Brazil,183,FC Porto,Forward,30,False,75,58,0,0,0,0
+291,Francisco Fernandes Conceição,18,Portugal,170,FC Porto,Midfielder,10,False,61,63,0,0,0,0
+292,Francisco Manuel Gonzalez Verjara,22,Spain,188,Atlético de Madrid,Defender,36,False,26,45,0,0,0,0
+293,Francisco Reis Ferreira,24,Portugal,191,SL Benfica,Defender,97,False,43,54,0,0,0,0
+294,Francisco Román Alarcón Suárez,29,Spain,176,Real Madrid CF,Midfielder,22,False,75,80,0,0,0,0
+295,Franck Yannick Kessié,24,Côte d'Ivoire,183,AC Milan,Midfielder,79,False,74,74,0,0,0,0
+296,Franz Brorsson,25,Sweden,187,Malmö FF,Defender,31,False,30,48,0,0,0,0
+297,Frederico Rodrigues de Paula Santos,28,Brazil,169,Manchester United,Midfielder,17,False,66,77,0,0,0,0
+298,Fredrik Oppegård,18,Norway,175,PSV,Defender,35,False,51,55,0,0,0,0
+299,Frenkie de Jong,24,Netherlands,180,FC Barcelona,Defender,21,False,69,85,0,0,0,0
+300,Gabriel Appelt Pires,27,Brazil,187,SL Benfica,Midfielder,8,False,72,74,0,0,0,0
+301,Gabriel Fernando de Jesus,24,Brazil,175,Manchester City,Forward,9,False,81,72,0,0,0,0
+302,Gabriel Gudmundsson,22,Sweden,181,LOSC Lille,Defender,5,False,64,67,0,0,0,0
+303,Gabriel Nascimento Resende Brazão,20,Brazil,192,Inter,Goalkeeper,91,False,0,0,0,0,0,0
+304,Gareth Frank Bale,31,Wales,185,Real Madrid CF,Midfielder,18,False,84,82,0,0,0,0
+305,Gedson Carvalho Fernandes,22,Portugal,181,SL Benfica,Midfielder,83,False,70,75,0,0,0,0
+306,Geoffrey Edwin Kondogbia,28,Central African Republic,188,Atlético de Madrid,Midfielder,4,False,74,75,0,0,0,0
+307,George McEachran,20,England,172,Chelsea,Midfielder,41,False,45,63,0,0,0,0
+308,Georginio Wijnaldum,30,Netherlands,175,Paris Saint-Germain,Midfielder,18,False,75,80,0,0,0,0
+309,Georgiy Bushchan,27,Ukraine,196,Dynamo Kyiv,Goalkeeper,1,False,0,0,0,0,0,0
+310,Gerard Moreno Balagueró,29,Spain,180,Villarreal CF,Midfielder,7,False,86,77,0,0,0,0
+311,Gerard Piqué Bernabéu,34,Spain,194,FC Barcelona,Defender,3,False,61,71,0,0,0,0
+312,Gerónimo Rulli,29,Argentina,189,Villarreal CF,Goalkeeper,13,False,0,0,0,0,0,0
+313,Gian-Luca Waldschmidt,25,Germany,181,VfL Wolfsburg,Forward,7,False,80,70,0,0,0,0
+314,Gianluigi Donnarumma,22,Italy,196,Paris Saint-Germain,Goalkeeper,50,False,0,0,0,0,0,0
+315,Gil Bastião Dias,24,Portugal,183,SL Benfica,Defender,31,False,66,70,0,0,0,0
+316,Gilberto Moraes Júnior,28,Brazil,181,SL Benfica,Defender,2,False,55,68,0,0,0,0
+317,Gil-Linnart Walther,18,Germany,178,VfL Wolfsburg,Midfielder,48,False,50,52,0,0,0,0
+318,Giorgio Chiellini,36,Italy,187,Juventus,Defender,3,False,46,60,0,0,0,0
+319,Giovanni Alejandro Reyna,18,United States,185,Borussia Dortmund,Midfielder,7,False,71,74,0,0,0,0
+320,Giuliano Simeone,18,Argentina,184,Atlético de Madrid,Midfielder,27,False,66,49,0,0,0,0
+321,Giuseppe Pezzella,23,Italy,185,Atalanta,Defender,13,False,52,64,0,0,0,0
+322,Göktan Gürpüz,18,Turkey,175,Borussia Dortmund,Midfielder,42,False,43,58,0,0,0,0
+323,Gonçalo Bernardo Inácio,19,Portugal,186,Sporting CP,Defender,25,False,30,60,0,0,0,0
+324,Gonçalo Esteves,17,Portugal,177,Sporting CP,Defender,87,False,39,60,0,0,0,0
+325,Gonçalo Matias Ramos,20,Portugal,184,SL Benfica,Forward,88,False,70,63,0,0,0,0
+326,Gonzalo Ariel Montiel,24,Argentina,175,Sevilla FC,Defender,2,False,53,70,0,0,0,0
+327,Gregor Kobel,23,Switzerland,195,Borussia Dortmund,Goalkeeper,1,False,0,0,0,0,0,0
+328,Guillaume Faivre,34,Switzerland,188,BSC Young Boys,Goalkeeper,91,False,0,0,0,0,0,0
+329,Hakan Çalhanoğlu,27,Turkey,178,Inter,Midfielder,20,False,78,84,0,0,0,0
+330,Hakim Ziyech,28,Morocco,181,Chelsea,Midfielder,22,False,76,87,0,0,0,0
+331,Hannibal Mejbri,18,Tunisia,182,Manchester United,Midfielder,46,False,51,61,0,0,0,0
+332,Hans Carl Ludwig Augustinsson,27,Sweden,181,Sevilla FC,Defender,3,False,60,75,0,0,0,0
+333,Hans Hateboer,27,Netherlands,185,Atalanta,Defender,33,False,64,72,0,0,0,0
+334,Hans Vanaken,28,Belgium,195,Club Brugge KV,Midfielder,20,False,78,79,0,0,0,0
+335,Haris Seferović,29,Switzerland,189,SL Benfica,Forward,14,False,78,67,0,0,0,0
+336,Harry Maguire,28,England,194,Manchester United,Defender,5,False,55,69,0,0,0,0
+337,Harvey Elliott,18,England,170,Liverpool,Midfielder,67,False,62,71,0,0,0,0
+338,Héctor Miguel Herrera López,31,Mexico,185,Atlético de Madrid,Midfielder,16,False,75,76,0,0,0,0
+339,Helton Brant Aleixo Leite,30,Brazil,196,SL Benfica,Goalkeeper,77,False,0,0,0,0,0,0
+340,Heorhii Sudakov,18,Ukraine,177,Shakhtar Donetsk,Midfielder,61,False,59,56,0,0,0,0
+341,Hugo Novoa Ramos,18,Spain,182,RB Leipzig,Forward,38,False,63,45,0,0,0,0
+342,Ibrahim Amadou,28,France,183,Sevilla FC,Defender,27,False,55,65,0,0,0,0
+343,Ibrahim Sangaré,23,Côte d'Ivoire,191,PSV,Midfielder,6,False,65,70,0,0,0,0
+344,Ibrahima Konaté,22,France,194,Liverpool,Defender,5,False,34,57,0,0,0,0
+345,Idrissa Gana Gueye,31,Senegal,174,Paris Saint-Germain,Midfielder,27,False,62,71,0,0,0,0
+346,Ignace Van der Brempt,19,Belgium,191,Club Brugge KV,Defender,28,False,52,57,0,0,0,0
+347,Ignacio Peña Sotorres,22,Spain,184,FC Barcelona,Goalkeeper,26,False,0,0,0,0,0,0
+348,Iker Pozo La Rosa,20,Spain,178,Manchester City,Midfielder,56,False,44,56,0,0,0,0
+349,İlkay Gündoğan,30,Germany,180,Manchester City,Midfielder,8,False,80,85,0,0,0,0
+350,Illia Zabarnyi,18,Ukraine,186,Dynamo Kyiv,Defender,25,False,36,54,0,0,0,0
+351,Ilya Shkurin,21,Belarus,188,Dynamo Kyiv,Forward,73,False,65,56,0,0,0,0
+352,Ionuț Andrei Radu,24,Romania,188,Inter,Goalkeeper,97,False,0,0,0,0,0,0
+353,Isaac Lihadji,19,France,177,LOSC Lille,Midfielder,19,False,59,62,0,0,0,0
+354,Ismaël Bennacer,23,Algeria,175,AC Milan,Midfielder,4,False,67,80,0,0,0,0
+355,Ismael Diawara,26,Mali,194,Malmö FF,Goalkeeper,30,False,0,0,0,0,0,0
+356,Ismaël Gharbi,17,France,167,Paris Saint-Germain,Midfielder,35,False,55,60,0,0,0,0
+357,Ismaily Gonçalves dos Santos,31,Brazil,177,Shakhtar Donetsk,Defender,31,False,64,74,0,0,0,0
+358,Israel Salazar Píriz,18,Spain,177,Real Madrid CF,Forward,26,False,64,45,0,0,0,0
+359,Iván Marcano Sierra,34,Spain,189,FC Porto,Defender,5,False,46,60,0,0,0,0
+360,Ivan Perišić,32,Croatia,186,Inter,Defender,14,False,79,76,0,0,0,0
+361,Ivan Rakitić,33,Croatia,184,Sevilla FC,Midfielder,10,False,79,85,0,0,0,0
+362,Iván Romero de Ávila,20,Spain,172,Sevilla FC,Forward,36,False,58,43,0,0,0,0
+363,Ivan Šaponjić,23,Serbia,190,Atlético de Madrid,Forward,20,False,71,48,0,0,0,0
+364,Ivan Šaranić,18,Croatia,185,Dinamo Zagreb,Midfielder,35,False,56,62,0,0,0,0
+365,Ivo Grbić,25,Croatia,195,LOSC Lille,Goalkeeper,1,False,0,0,0,0,0,0
+366,Jack Grealish,25,England,180,Manchester City,Midfielder,10,False,76,83,0,0,0,0
+367,Jack Hendry,26,Scotland,194,Club Brugge KV,Defender,5,False,59,52,0,0,0,0
+368,Jadon Sancho,21,England,180,Manchester United,Midfielder,25,False,76,82,0,0,0,0
+369,Jamal Musiala,18,Germany,180,FC Bayern München,Midfielder,42,False,70,67,0,0,0,0
+370,James McAtee,18,England,187,Manchester City,Midfielder,87,False,59,58,0,0,0,0
+371,James Norris,18,England,178,Liverpool,Defender,54,False,35,51,0,0,0,0
+372,James Philip Milner,35,England,175,Liverpool,Defender,7,False,70,81,0,0,0,0
+373,Jan Oblak,28,Slovenia,188,Atlético de Madrid,Goalkeeper,13,False,0,0,0,0,0,0
+374,Jan Thilo Kehrer,24,Germany,186,Paris Saint-Germain,Defender,24,False,44,65,0,0,0,0
+375,Jan Vertonghen,34,Belgium,189,SL Benfica,Defender,5,False,62,72,0,0,0,0
+376,Jannis Lang,18,Germany,188,VfL Wolfsburg,Defender,38,False,32,35,0,0,0,0
+377,Javier Díaz Sánchez,24,Spain,182,Sevilla FC,Goalkeeper,31,False,0,0,0,0,0,0
+378,Javier Serrano Martínez,18,Spain,175,Atlético de Madrid,Midfielder,26,False,56,60,0,0,0,0
+379,Jay Gorter,21,Netherlands,190,Ajax,Goalkeeper,16,False,0,0,0,0,0,0
+380,Jayden Jezairo Braaf,18,Netherlands,179,Manchester City,Forward,51,False,60,57,0,0,0,0
+381,Jean-Eric Maxim Choupo-Moting,32,Cameroon,191,FC Bayern München,Forward,13,False,73,68,0,0,0,0
+382,Jean-Pierre Nsame,28,Cameroon,188,BSC Young Boys,Forward,18,False,77,55,0,0,0,0
+383,Jérémy Pied,32,France,173,LOSC Lille,Defender,26,False,64,72,0,0,0,0
+384,Jérôme Junior Onguéné,23,Cameroon,186,FC Red Bull Salzburg,Defender,6,False,30,42,0,0,0,0
+385,Jérôme Roussillon,28,France,175,VfL Wolfsburg,Defender,15,False,65,72,0,0,0,0
+386,Jesse Lingard,28,England,175,Manchester United,Midfielder,14,False,79,75,0,0,0,0
+387,Jesús Joaquín Fernández Sáez de la Torre,27,Spain,176,Sevilla FC,Forward,7,False,76,82,0,0,0,0
+388,Jesús Manuel Corona Ruíz,28,Mexico,173,FC Porto,Defender,17,False,67,79,0,0,0,0
+389,Jesús Navas González,35,Spain,172,Sevilla FC,Defender,16,False,69,81,0,0,0,0
+390,Jesús Vallejo Lázaro,24,Spain,184,Real Madrid CF,Defender,5,False,42,57,0,0,0,0
+391,Jo Inge Berget,30,Norway,186,Malmö FF,Forward,32,False,69,66,0,0,0,0
+392,Joakim Mæhle Pedersen,24,Denmark,185,Atalanta,Defender,3,False,56,68,0,0,0,0
+393,Joan Jordán Moreno,26,Spain,183,Sevilla FC,Midfielder,8,False,75,81,0,0,0,0
+394,João Félix Sequeira,21,Portugal,181,Atlético de Madrid,Forward,7,False,79,76,0,0,0,0
+395,João Manuel Neves Virgínia,21,Portugal,191,Sporting CP,Goalkeeper,31,False,0,0,0,0,0,0
+396,João Maria Lobo Alves Palhinha Gonçalves,25,Portugal,190,Sporting CP,Midfielder,6,False,65,70,0,0,0,0
+397,João Mário Naval da Costa Eduardo,28,Portugal,179,SL Benfica,Midfielder,20,False,69,80,0,0,0,0
+398,João Mário Neto Lopes,21,Portugal,178,FC Porto,Defender,23,False,63,64,0,0,0,0
+399,João Paulo Dias Fernandes,28,Portugal,188,Sporting CP,Forward,21,False,78,64,0,0,0,0
+400,João Pedro Cavaco Cancelo,27,Portugal,182,Manchester City,Defender,27,False,71,83,0,0,0,0
+401,Joe Gomez,24,England,188,Liverpool,Defender,12,False,30,66,0,0,0,0
+402,Joël Andre Job Matip,29,Cameroon,194,Liverpool,Defender,32,False,46,68,0,0,0,0
+403,Joël Drommel,24,Netherlands,193,PSV,Goalkeeper,16,False,0,0,0,0,0,0
+404,Joël Monteiro Almada,21,Portugal,191,BSC Young Boys,Forward,77,False,55,44,0,0,0,0
+405,Johan Dahlin,34,Sweden,192,Malmö FF,Goalkeeper,27,False,0,0,0,0,0,0
+406,John Anthony Brooks,28,United States,193,VfL Wolfsburg,Defender,25,False,39,59,0,0,0,0
+407,John Stones,27,England,188,Manchester City,Defender,5,False,51,71,0,0,0,0
+408,Jonas Knudsen,28,Denmark,187,Malmö FF,Defender,3,False,44,62,0,0,0,0
+409,Jonathan Bamba,25,France,175,LOSC Lille,Midfielder,7,False,75,74,0,0,0,0
+410,Jonathan Christian David,21,Canada,177,LOSC Lille,Forward,9,False,76,71,0,0,0,0
+411,Jonathan Russell,20,England,188,Chelsea,Midfielder,47,False,52,57,0,0,0,0
+412,Jordan Henderson,31,England,182,Liverpool,Midfielder,14,False,74,83,0,0,0,0
+413,Jordan Lefort,27,France,184,BSC Young Boys,Defender,25,False,26,60,0,0,0,0
+414,Jordan Teze,21,Netherlands,183,PSV,Defender,3,False,48,63,0,0,0,0
+415,Jordi Alba Ramos,32,Spain,170,FC Barcelona,Defender,18,False,69,81,0,0,0,0
+416,Jorge Resurrección Merodio,29,Spain,176,Atlético de Madrid,Midfielder,6,False,75,85,0,0,0,0
+417,Joris Gnagnon,24,France,182,Sevilla FC,Defender,26,False,39,56,0,0,0,0
+418,Joscha Wosz,18,Germany,173,RB Leipzig,Defender,47,False,50,58,0,0,0,0
+419,José Ángel Carmona Navarro,19,Spain,183,Sevilla FC,Defender,28,False,27,42,0,0,0,0
+420,José Ángel Esmoris Tasende,24,Spain,175,RB Leipzig,Defender,3,False,71,82,0,0,0,0
+421,José Diogo Dalot Teixeira,22,Portugal,184,Manchester United,Defender,20,False,60,70,0,0,0,0
+422,José Heriberto Izquierdo Mena,28,Colombia,171,Club Brugge KV,Midfielder,87,False,68,67,0,0,0,0
+423,José Ignacio Fernández Iglesias,31,Spain,180,Real Madrid CF,Defender,6,False,37,66,0,0,0,0
+424,José Luis Palomino,31,Argentina,188,Atalanta,Defender,6,False,32,55,0,0,0,0
+425,José Manuel Cabrera López,20,Spain,177,Villarreal CF,Defender,27,False,39,52,0,0,0,0
+426,José María Giménez de Vargas,26,Uruguay,185,Atlético de Madrid,Defender,2,False,45,57,0,0,0,0
+427,José Miguel da Rocha Fonte,37,Portugal,191,LOSC Lille,Defender,6,False,46,62,0,0,0,0
+428,Josep Martínez Riera,23,Spain,191,RB Leipzig,Goalkeeper,31,False,0,0,0,0,0,0
+429,Josh Brooking,18,England,185,Chelsea,Defender,44,False,29,36,0,0,0,0
+430,Joshua Walter Kimmich,26,Germany,177,FC Bayern München,Defender,6,False,73,86,0,0,0,0
+431,Josip Iličić,33,Slovenia,190,Atalanta,Forward,72,False,86,84,0,0,0,0
+432,Josip Mišić,27,Croatia,184,Dinamo Zagreb,Midfielder,27,False,68,73,0,0,0,0
+433,Josip Stanišić,21,Croatia,186,FC Bayern München,Defender,44,False,28,49,0,0,0,0
+434,Josip Šutalo,21,Croatia,190,Dinamo Zagreb,Defender,37,False,27,46,0,0,0,0
+435,Joško Gvardiol,19,Croatia,185,RB Leipzig,Defender,32,False,54,67,0,0,0,0
+436,Josuha Guilavogui,30,France,188,VfL Wolfsburg,Defender,23,False,59,65,0,0,0,0
+437,Jovane Eduardo Borges Cabral,23,Cape Verde Islands,176,Sporting CP,Forward,10,False,76,73,0,0,0,0
+438,Juan Agustín Musso,27,Argentina,191,Atalanta,Goalkeeper,1,False,0,0,0,0,0,0
+439,Juan Bernat Velasco,28,Spain,170,Paris Saint-Germain,Defender,14,False,65,78,0,0,0,0
+440,Juan Guillermo Cuadrado Bello,33,Colombia,179,Juventus,Defender,11,False,75,77,0,0,0,0
+441,Juan Manuel Mata García,33,Spain,170,Manchester United,Midfielder,8,False,71,81,0,0,0,0
+442,Juan Marcos Foyth,23,Argentina,187,Villarreal CF,Defender,8,False,45,67,0,0,0,0
+443,Jude Victor William Bellingham,18,England,186,Borussia Dortmund,Midfielder,22,False,69,73,0,0,0,0
+444,Jules Koundé,22,France,181,Sevilla FC,Defender,23,False,45,64,0,0,0,0
+445,Julian Brandt,25,Germany,185,Borussia Dortmund,Midfielder,19,False,75,80,0,0,0,0
+446,Julian Draxler,27,Germany,187,Paris Saint-Germain,Midfielder,23,False,76,80,0,0,0,0
+447,Julian Weigl,25,Germany,186,SL Benfica,Midfielder,28,False,60,75,0,0,0,0
+448,Julius Pfennig,18,Germany,181,RB Leipzig,Defender,48,False,30,37,0,0,0,0
+449,Junior Chukwubuike Adamu,20,Austria,183,FC Red Bull Salzburg,Forward,9,False,66,49,0,0,0,0
+450,Junior Walter Messias,30,Brazil,179,AC Milan,Midfielder,30,False,68,72,0,0,0,0
+451,Jurriën David Norman Timber,20,Netherlands,179,Ajax,Defender,2,False,44,64,0,0,0,0
+452,Kai Lukas Havertz,22,Germany,188,Chelsea,Midfielder,29,False,78,79,0,0,0,0
+453,Kaio Jorge Pinto Ramos,19,Brazil,182,Juventus,Forward,21,False,68,52,0,0,0,0
+454,Kamal Sowah,21,Ghana,179,Club Brugge KV,Midfielder,19,False,69,65,0,0,0,0
+455,Kamil Piątkowski,21,Poland,191,FC Red Bull Salzburg,Defender,4,False,47,64,0,0,0,0
+456,Karim Benzema,33,France,185,Real Madrid CF,Forward,9,False,86,81,0,0,0,0
+457,Karim Rekik,26,Netherlands,186,Sevilla FC,Defender,4,False,39,58,0,0,0,0
+458,Karim-David Adeyemi,19,Germany,177,FC Red Bull Salzburg,Forward,27,False,72,65,0,0,0,0
+459,Karlo Letica,24,Croatia,201,Club Brugge KV,Goalkeeper,43,False,0,0,0,0,0,0
+460,Kayky da Silva Chagas,18,Brazil,173,Manchester City,Forward,82,False,58,57,0,0,0,0
+461,Kays Ruiz-Atil,18,Morocco,173,FC Barcelona,Midfielder,44,False,54,64,0,0,0,0
+462,Kenneth Ina Dorothea Taylor,19,Netherlands,182,Ajax,Midfielder,25,False,67,72,0,0,0,0
+463,Kepa Arrizabalaga Revuelta,26,Spain,186,Chelsea,Goalkeeper,1,False,0,0,0,0,0,0
+464,Kevin De Bruyne,30,Belgium,181,Manchester City,Midfielder,17,False,86,93,0,0,0,0
+465,Kevin Kampl,30,Slovenia,178,RB Leipzig,Midfielder,44,False,67,81,0,0,0,0
+466,Kévin Théophile-Catherine,31,France,183,Dinamo Zagreb,Defender,28,False,50,65,0,0,0,0
+467,Keylor Navas Gamboa,34,Costa Rica,185,Paris Saint-Germain,Goalkeeper,1,False,0,0,0,0,0,0
+468,Kieran Trippier,30,England,173,Atlético de Madrid,Defender,23,False,63,82,0,0,0,0
+469,Kilian Ludewig,21,Germany,174,FC Red Bull Salzburg,Defender,29,False,46,60,0,0,0,0
+470,Kingsley Junior Coman,25,France,180,FC Bayern München,Midfielder,11,False,76,79,0,0,0,0
+471,Kléper Laveran de Lima Ferreira,38,Portugal,188,FC Porto,Defender,3,False,51,60,0,0,0,0
+472,Koen Casteels,29,Belgium,197,VfL Wolfsburg,Goalkeeper,1,False,0,0,0,0,0,0
+473,Komnen Andrić,26,Serbia,189,Dinamo Zagreb,Forward,9,False,66,50,0,0,0,0
+474,Konrad Laimer,24,Austria,180,RB Leipzig,Defender,27,False,68,77,0,0,0,0
+475,Konstantinos Tsimikas,25,Greece,179,Liverpool,Defender,21,False,57,69,0,0,0,0
+476,Kouadio-Yves Dabila,24,Côte d'Ivoire,183,LOSC Lille,Defender,25,False,31,47,0,0,0,0
+477,Kyle Walker,31,England,183,Manchester City,Defender,2,False,63,76,0,0,0,0
+478,Kylian Mbappé Lottin,22,France,182,Paris Saint-Germain,Forward,7,False,88,80,0,0,0,0
+479,Lasse Nielsen,33,Denmark,185,Malmö FF,Defender,24,False,33,52,0,0,0,0
+480,Lassina Chamste Soudine Franck Traoré,20,Burkina Faso,183,Shakhtar Donetsk,Forward,23,False,70,57,0,0,0,0
+481,Lautaro Javier Martínez,23,Argentina,174,Inter,Forward,10,False,81,72,0,0,0,0
+482,Layvin Kurzawa,28,France,182,Paris Saint-Germain,Defender,20,False,65,72,0,0,0,0
+483,Leandro Daniel Paredes,27,Argentina,180,Paris Saint-Germain,Midfielder,8,False,71,83,0,0,0,0
+484,Leandro Zbinden,18,Switzerland,187,BSC Young Boys,Goalkeeper,61,False,0,0,0,0,0,0
+485,Lee Grant,38,England,193,Manchester United,Goalkeeper,13,False,0,0,0,0,0,0
+486,Leon Christoph Goretzka,26,Germany,189,FC Bayern München,Midfielder,8,False,82,82,0,0,0,0
+487,Leonardo Bonucci,34,Italy,190,Juventus,Defender,19,False,58,69,0,0,0,0
+488,Leonardo César Jardim,26,Brazil,188,LOSC Lille,Goalkeeper,30,False,0,0,0,0,0,0
+489,Leroy Aziz Sané,25,Germany,183,FC Bayern München,Midfielder,10,False,81,79,0,0,0,0
+490,Lewis Baker,26,England,182,Chelsea,Midfielder,52,False,67,71,0,0,0,0
+491,Liam Delap,18,England,186,Manchester City,Forward,48,False,64,47,0,0,0,0
+492,Lionel Andrés Messi Cuccittini,34,Argentina,170,Paris Saint-Germain,Forward,30,False,92,91,0,0,0,0
+493,Lisandro Martínez,23,Argentina,178,Ajax,Defender,21,False,58,73,0,0,0,0
+494,Loris Karius,28,Germany,189,Liverpool,Goalkeeper,22,False,0,0,0,0,0,0
+495,Luca Pellegrini,22,Italy,178,Juventus,Defender,17,False,54,64,0,0,0,0
+496,Lucas Ariel Ocampos,26,Argentina,188,Sevilla FC,Forward,5,False,84,78,0,0,0,0
+497,Lucas Bergström,18,Finland,200,Chelsea,Goalkeeper,36,False,0,0,0,0,0,0
+498,Lucas François Bernard Hernández Pi,25,France,184,FC Bayern München,Defender,21,False,54,68,0,0,0,0
+499,Lucas Vázquez Iglesias,30,Spain,173,Real Madrid CF,Defender,17,False,73,79,0,0,0,0
+500,Lucas Veríssimo da Silva,25,Brazil,188,SL Benfica,Defender,4,False,39,57,0,0,0,0
+501,Luis Alberto Suárez Díaz,34,Uruguay,182,Atlético de Madrid,Forward,9,False,90,82,0,0,0,0
+502,Luis Carbonell Artajona,18,Spain,169,Real Madrid CF,Forward,29,False,64,51,0,0,0,0
+503,Luís Carlos Novo Neto,33,Portugal,185,Sporting CP,Defender,13,False,37,56,0,0,0,0
+504,Luis Federico López Andúgar,20,Spain,190,Real Madrid CF,Goalkeeper,32,False,0,0,0,0,0,0
+505,Luis Fernando Díaz Marulanda,24,Colombia,180,FC Porto,Midfielder,7,False,77,70,0,0,0,0
+506,Luis Fernando Muriel Fruto,30,Colombia,179,Atalanta,Forward,9,False,83,74,0,0,0,0
+507,Luís Miguel Afonso Fernandes,31,Portugal,177,SL Benfica,Midfielder,21,False,77,81,0,0,0,0
+508,Luiz Frello Filho Jorge,29,Italy,180,Chelsea,Midfielder,5,False,67,86,0,0,0,0
+509,Luka Ivanušec,22,Croatia,175,Dinamo Zagreb,Midfielder,7,False,71,71,0,0,0,0
+510,Luka Jović,23,Serbia,182,Real Madrid CF,Forward,16,False,80,68,0,0,0,0
+511,Luka Menalo,24,Bosnia and Herzegovina,181,Dinamo Zagreb,Forward,70,False,61,59,0,0,0,0
+512,Luka Modrić,35,Croatia,172,Real Madrid CF,Midfielder,10,False,76,89,0,0,0,0
+513,Luka Sučić,18,Croatia,185,FC Red Bull Salzburg,Midfielder,21,False,65,69,0,0,0,0
+514,Lukas Manuel Klostermann,25,Germany,187,RB Leipzig,Defender,16,False,51,64,0,0,0,0
+515,Lukas Nmecha,22,Germany,185,VfL Wolfsburg,Forward,10,False,73,64,0,0,0,0
+516,Luke Bolton,21,England,176,Manchester City,Defender,74,False,51,59,0,0,0,0
+517,Luke Mbete,17,England,185,Manchester City,Defender,79,False,32,47,0,0,0,0
+518,Luke Shaw,25,England,181,Manchester United,Defender,23,False,54,79,0,0,0,0
+519,Luuk de Jong,30,Netherlands,188,FC Barcelona,Forward,17,False,78,71,0,0,0,0
+520,Maarten Stekelenburg,38,Netherlands,197,Ajax,Goalkeeper,1,False,0,0,0,0,0,0
+521,Mahmoud Dahoud,25,Germany,178,Borussia Dortmund,Midfielder,8,False,69,76,0,0,0,0
+522,Malang Sarr,22,France,182,Chelsea,Defender,31,False,52,68,0,0,0,0
+523,Malik Tillman,19,Germany,186,FC Bayern München,Forward,40,False,64,48,0,0,0,0
+524,Mamady Diambou,18,Mali,176,FC Red Bull Salzburg,Midfielder,15,False,52,54,0,0,0,0
+525,Manor Solomon,21,Israel,170,Shakhtar Donetsk,Midfielder,19,False,70,72,0,0,0,0
+526,Manuel Locatelli,23,Italy,185,Juventus,Midfielder,27,False,72,79,0,0,0,0
+527,Manuel Obafemi Akanji,25,Switzerland,187,Borussia Dortmund,Defender,16,False,48,67,0,0,0,0
+528,Manuel Peter Neuer,35,Germany,193,FC Bayern München,Goalkeeper,1,False,0,0,0,0,0,0
+529,Manuel Trigueros Muñoz,29,Spain,178,Villarreal CF,Midfielder,14,False,71,78,0,0,0,0
+530,Manuel Ugarte Ribeiro,20,Uruguay,182,Sporting CP,Midfielder,15,False,59,63,0,0,0,0
+531,Marc Roca Junqué,24,Spain,184,FC Bayern München,Midfielder,22,False,62,77,0,0,0,0
+532,Marc-André ter Stegen,29,Germany,187,FC Barcelona,Goalkeeper,1,False,0,0,0,0,0,0
+533,Marcel Halstenberg,29,Germany,188,RB Leipzig,Defender,23,False,66,73,0,0,0,0
+534,Marcel Sabitzer,27,Austria,178,FC Bayern München,Midfielder,18,False,84,81,0,0,0,0
+535,Marcel Schmelzer,33,Germany,180,Borussia Dortmund,Defender,29,False,48,65,0,0,0,0
+536,Marcelo Brozović,28,Croatia,181,Inter,Midfielder,77,False,74,80,0,0,0,0
+537,Marcelo Josemir Saracchi Pintos,23,Uruguay,172,RB Leipzig,Defender,43,False,63,70,0,0,0,0
+538,Marcelo Pitaluga,18,Brazil,191,Liverpool,Goalkeeper,53,False,0,0,0,0,0,0
+539,Marcelo Vieira da Silva Júnior,33,Brazil,174,Real Madrid CF,Defender,12,False,72,80,0,0,0,0
+540,Marco Asensio Willemsen,25,Spain,182,Real Madrid CF,Forward,11,False,80,81,0,0,0,0
+541,Marco Reus,32,Germany,180,Borussia Dortmund,Midfielder,11,False,84,84,0,0,0,0
+542,Marco Sportiello,29,Italy,192,Atalanta,Goalkeeper,57,False,0,0,0,0,0,0
+543,Marco van Ginkel,28,Netherlands,186,PSV,Midfielder,8,False,76,76,0,0,0,0
+544,Marco Verratti,28,Italy,165,Paris Saint-Germain,Midfielder,6,False,61,87,0,0,0,0
+545,Marcos Alonso Mendoza,30,Spain,188,Chelsea,Defender,3,False,74,78,0,0,0,0
+546,Marcos Antonio Silva Santos,21,Brazil,168,Shakhtar Donetsk,Midfielder,8,False,65,69,0,0,0,0
+547,Marcos Aoás Corrêa,27,Brazil,183,Paris Saint-Germain,Defender,5,False,53,75,0,0,0,0
+548,Marcos Javier Acuña,29,Argentina,172,Sevilla FC,Defender,19,False,74,82,0,0,0,0
+549,Marcos Llorente Moreno,26,Spain,184,Atlético de Madrid,Midfielder,14,False,80,81,0,0,0,0
+550,Marcus Bettinelli,29,England,194,Chelsea,Goalkeeper,13,False,0,0,0,0,0,0
+551,Marcus Rashford,23,England,186,Manchester United,Midfielder,10,False,84,79,0,0,0,0
+552,Mariano Díaz Mejía,27,Dominican Republic,180,Real Madrid CF,Forward,24,False,78,61,0,0,0,0
+553,Marin Leovac,32,Croatia,180,Dinamo Zagreb,Defender,22,False,55,60,0,0,0,0
+554,Marin Pongračić,23,Croatia,190,Borussia Dortmund,Defender,34,False,26,51,0,0,0,0
+555,Mario Gaspar Pérez Martínez,30,Spain,180,Villarreal CF,Defender,2,False,69,71,0,0,0,0
+556,Mario Götze,29,Germany,177,PSV,Midfielder,27,False,75,83,0,0,0,0
+557,Mario Hermoso Canseco,26,Spain,185,Atlético de Madrid,Defender,22,False,49,72,0,0,0,0
+558,Mario Pašalić,26,Croatia,188,Atalanta,Midfielder,88,False,75,75,0,0,0,0
+559,Marius Wolf,26,Germany,188,Borussia Dortmund,Defender,39,False,70,70,0,0,0,0
+560,Marko Bulat,19,Croatia,178,Dinamo Zagreb,Midfielder,31,False,65,73,0,0,0,0
+561,Marko Dmitrović,29,Serbia,194,Sevilla FC,Goalkeeper,1,False,0,0,0,0,0,0
+562,Marko Grujić,25,Serbia,191,FC Porto,Midfielder,16,False,71,71,0,0,0,0
+563,Marko Tolić,24,Croatia,189,Dinamo Zagreb,Midfielder,24,False,72,73,0,0,0,0
+564,Markus Björkqvist,17,Sweden,181,Malmö FF,Midfielder,34,False,41,47,0,0,0,0
+565,Marlon Santos da Silva Barbosa,25,Brazil,182,Shakhtar Donetsk,Defender,5,False,44,59,0,0,0,0
+566,Marlos Romero Bonfim,33,Ukraine,174,Shakhtar Donetsk,Midfielder,11,False,76,78,0,0,0,0
+567,Marten Elco de Roon,30,Netherlands,185,Atalanta,Midfielder,15,False,68,71,0,0,0,0
+568,Martin Baturina,18,Croatia,172,Dinamo Zagreb,Midfielder,46,False,54,63,0,0,0,0
+569,Martin Braithwaite Christensen,30,Denmark,177,FC Barcelona,Forward,12,False,76,72,0,0,0,0
+570,Martín Pascual Castillo,21,Spain,190,Villarreal CF,Defender,31,False,25,41,0,0,0,0
+571,Martín Satriano,20,Uruguay,187,Inter,Forward,48,False,66,52,0,0,0,0
+572,Martin Tony Waikwa Olsson,33,Sweden,178,Malmö FF,Defender,13,False,62,68,0,0,0,0
+573,Marvin Olawale Akinlabi Park,21,Spain,178,Real Madrid CF,Defender,28,False,60,59,0,0,0,0
+574,Marvin Spielmann,25,Switzerland,181,BSC Young Boys,Midfielder,7,False,68,64,0,0,0,0
+575,Marvin Stefaniak,26,Germany,178,VfL Wolfsburg,Midfielder,44,False,60,64,0,0,0,0
+576,Marwin Hitz,33,Switzerland,194,Borussia Dortmund,Goalkeeper,35,False,0,0,0,0,0,0
+577,Mason Greenwood,19,England,181,Manchester United,Midfielder,11,False,78,73,0,0,0,0
+578,Mason Mount,22,England,178,Chelsea,Midfielder,19,False,79,84,0,0,0,0
+579,Matej Mitrović,27,Croatia,187,Club Brugge KV,Defender,15,False,50,57,0,0,0,0
+580,Mateo Kovačić,27,Croatia,176,Chelsea,Midfielder,8,False,69,83,0,0,0,0
+581,Mateu Jaume Morey Bauzá,21,Spain,173,Borussia Dortmund,Defender,2,False,46,67,0,0,0,0
+582,Mateus Cardoso Lemos Martins,21,Brazil,175,Shakhtar Donetsk,Midfielder,14,False,70,72,0,0,0,0
+583,Matheus Luiz Nunes,22,Brazil,183,Sporting CP,Midfielder,8,False,70,70,0,0,0,0
+584,Matheus Pereira da Silva,23,Brazil,181,FC Barcelona,Midfielder,47,False,60,65,0,0,0,0
+585,Matheus Reis de Lima,26,Brazil,183,Sporting CP,Defender,2,False,52,65,0,0,0,0
+586,Matheus Santos Carneiro Da Cunha,22,Brazil,183,Atlético de Madrid,Midfielder,19,False,78,74,0,0,0,0
+587,Matías Vecino Falero,29,Uruguay,187,Inter,Midfielder,8,False,71,75,0,0,0,0
+588,Mats Hummels,32,Germany,191,Borussia Dortmund,Defender,15,False,59,77,0,0,0,0
+589,Mats Rits,27,Belgium,178,Club Brugge KV,Midfielder,26,False,65,72,0,0,0,0
+590,Matteo Darmian,31,Italy,182,Inter,Defender,36,False,58,69,0,0,0,0
+591,Matteo Gabbia,21,Italy,185,AC Milan,Defender,46,False,33,42,0,0,0,0
+592,Matteo Lovato,21,Italy,188,Atalanta,Defender,66,False,30,51,0,0,0,0
+593,Matteo Pessina,24,Italy,183,Atalanta,Midfielder,32,False,70,74,0,0,0,0
+594,Matthijs de Ligt,21,Netherlands,189,Juventus,Defender,4,False,59,60,0,0,0,0
+595,Mattia De Sciglio,28,Italy,182,Juventus,Defender,2,False,46,70,0,0,0,0
+596,Mattia Perin,28,Italy,188,Juventus,Goalkeeper,36,False,0,0,0,0,0,0
+597,Maurits Kjaergaard,18,Denmark,189,FC Red Bull Salzburg,Midfielder,14,False,58,59,0,0,0,0
+598,Mauro Emanuel Icardi Rivero,28,Argentina,181,Paris Saint-Germain,Forward,9,False,83,65,0,0,0,0
+599,Mauro Jaqueson Júnior Ferreira dos Santos,22,Brazil,171,PSV,Midfielder,17,False,65,72,0,0,0,0
+600,Maxence Lacroix,21,France,190,VfL Wolfsburg,Defender,4,False,33,56,0,0,0,0
+601,Maxime Delanghe,20,Belgium,189,PSV,Goalkeeper,21,False,0,0,0,0,0,0
+602,Maximilian Arnold,27,Germany,184,VfL Wolfsburg,Midfielder,27,False,81,79,0,0,0,0
+603,Maximilian Philipp,27,Germany,183,VfL Wolfsburg,Midfielder,17,False,79,71,0,0,0,0
+604,Maximilian Wöber,23,Austria,189,FC Red Bull Salzburg,Defender,39,False,45,63,0,0,0,0
+605,Maximiliano Samuel Romero,22,Argentina,179,PSV,Forward,20,False,71,49,0,0,0,0
+606,Maycon de Andrade Barberan,23,Brazil,175,Shakhtar Donetsk,Midfielder,27,False,67,72,0,0,0,0
+607,Mehdi Taremi,28,Iran,187,FC Porto,Forward,9,False,79,70,0,0,0,0
+608,Mehmet Ibrahimi,18,Germany,181,RB Leipzig,Midfielder,45,False,49,53,0,0,0,0
+609,Mehmet Zeki Çelik,24,Turkey,180,LOSC Lille,Defender,2,False,58,71,0,0,0,0
+610,Melingo Kevin Mbabu,26,Switzerland,184,VfL Wolfsburg,Defender,19,False,51,69,0,0,0,0
+611,Melker Ellborg,18,Sweden,191,Malmö FF,Goalkeeper,1,False,0,0,0,0,0,0
+612,Memphis Depay,27,Netherlands,176,FC Barcelona,Midfielder,9,False,83,82,0,0,0,0
+613,Merih Demiral,23,Turkey,190,Atalanta,Defender,28,False,39,47,0,0,0,0
+614,Meschack Elia Lina,23,Congo DR,173,BSC Young Boys,Midfielder,15,False,69,65,0,0,0,0
+615,Michaël Bruno Dominique Cuisance,21,France,181,FC Bayern München,Midfielder,17,False,67,78,0,0,0,0
+616,Michel Aebischer,24,Switzerland,183,BSC Young Boys,Midfielder,20,False,65,75,0,0,0,0
+617,Micky van de Ven,20,Netherlands,193,VfL Wolfsburg,Defender,5,False,43,56,0,0,0,0
+618,Miguel Ángel Leal Díaz,24,Spain,176,Villarreal CF,Defender,46,False,45,57,0,0,0,0
+619,Miguel Ângelo da Silva Rocha,26,Portugal,186,LOSC Lille,Midfielder,8,False,61,74,0,0,0,0
+620,Miguel Gutiérrez Ortega,19,Spain,180,Real Madrid CF,Defender,35,False,40,47,0,0,0,0
+621,Mike Maignan,25,France,191,AC Milan,Goalkeeper,16,False,0,0,0,0,0,0
+622,Milan Škriniar,26,Slovakia,188,Inter,Defender,37,False,41,53,0,0,0,0
+623,Mile Svilar,21,Serbia,189,SL Benfica,Goalkeeper,1,False,0,0,0,0,0,0
+624,Miralem Sulejmani,32,Serbia,179,BSC Young Boys,Midfielder,10,False,71,73,0,0,0,0
+625,Mislav Oršić,28,Croatia,179,Dinamo Zagreb,Midfielder,99,False,82,71,0,0,0,0
+626,Mohamed Ali Camara,23,Guinea,191,BSC Young Boys,Defender,4,False,35,51,0,0,0,0
+627,Mohamed Camara,21,Mali,169,FC Red Bull Salzburg,Midfielder,19,False,56,65,0,0,0,0
+628,Mohamed Daramy,19,Denmark,180,Ajax,Forward,30,False,59,60,0,0,0,0
+629,Mohamed Salah Ghaly,29,Egypt,175,Liverpool,Forward,11,False,87,81,0,0,0,0
+630,Mohamed Simakan,21,France,187,RB Leipzig,Defender,2,False,36,62,0,0,0,0
+631,Mohammed Kudus,20,Ghana,177,Ajax,Midfielder,20,False,72,70,0,0,0,0
+632,Moise Bioty Kean,21,Italy,182,Juventus,Forward,18,False,77,56,0,0,0,0
+633,Moisés Gómez Bordonado,27,Spain,176,Villarreal CF,Midfielder,23,False,74,77,0,0,0,0
+634,Morgan Boyes,20,Wales,179,Liverpool,Defender,52,False,36,49,0,0,0,0
+635,Moriba Kourouma Kourouma,18,Spain,185,RB Leipzig,Midfielder,26,False,70,64,0,0,0,0
+636,Moussa Wagué,22,Senegal,177,FC Barcelona,Defender,40,False,40,61,0,0,0,0
+637,Munir El Haddadi Mohamed,25,Morocco,175,Sevilla FC,Forward,11,False,78,75,0,0,0,0
+638,Mykhailo Mudryk,20,Ukraine,175,Shakhtar Donetsk,Midfielder,20,False,48,58,0,0,0,0
+639,Mykola Matvienko,25,Ukraine,181,Shakhtar Donetsk,Defender,22,False,43,62,0,0,0,0
+640,Mykola Shaparenko,22,Ukraine,177,Dynamo Kyiv,Midfielder,10,False,71,76,0,0,0,0
+641,Mykyta Burda,26,Ukraine,187,Dynamo Kyiv,Defender,26,False,23,43,0,0,0,0
+642,Naby Keïta,26,Guinea,172,Liverpool,Midfielder,8,False,73,75,0,0,0,0
+643,Nanitamo Jonathan Ikoné,23,France,175,LOSC Lille,Midfielder,10,False,70,74,0,0,0,0
+644,Nathan Aké,26,Netherlands,180,Manchester City,Defender,6,False,53,70,0,0,0,0
+645,Nathan Bitumazala,18,France,178,Paris Saint-Germain,Defender,39,False,42,55,0,0,0,0
+646,Nathaniel Phillips,24,England,190,Liverpool,Defender,47,False,30,49,0,0,0,0
+647,Neco Williams,20,Wales,183,Liverpool,Defender,76,False,36,61,0,0,0,0
+648,Nemanja Gudelj,29,Serbia,187,Sevilla FC,Defender,6,False,70,79,0,0,0,0
+649,Nemanja Matić,32,Serbia,194,Manchester United,Midfielder,31,False,67,75,0,0,0,0
+650,Nemanja Radonjić,25,Serbia,185,SL Benfica,Midfielder,23,False,71,71,0,0,0,0
+651,Neymar da Silva Santos Júnior,29,Brazil,175,Paris Saint-Germain,Midfielder,10,False,83,86,0,0,0,0
+652,N'Golo Kanté,30,France,168,Chelsea,Midfielder,7,False,66,75,0,0,0,0
+653,Nick Shinton,20,Belgium,194,Club Brugge KV,Goalkeeper,33,False,0,0,0,0,0,0
+654,Nico Maier,20,Switzerland,173,BSC Young Boys,Midfielder,22,False,49,59,0,0,0,0
+655,Nico Mantl,21,Germany,193,FC Red Bull Salzburg,Goalkeeper,1,False,0,0,0,0,0,0
+656,Nico Schulz,28,Germany,181,Borussia Dortmund,Defender,14,False,51,72,0,0,0,0
+657,Nicolás Alejandro Tagliafico,28,Argentina,172,Ajax,Defender,31,False,55,73,0,0,0,0
+658,Nicolas Brice Moumi Ngamaleu,26,Cameroon,181,BSC Young Boys,Midfielder,13,False,70,65,0,0,0,0
+659,Nicolás Capaldo Toboas,22,Argentina,177,FC Red Bull Salzburg,Defender,7,False,59,66,0,0,0,0
+660,Nicolás González Iglesias,19,Spain,188,FC Barcelona,Midfielder,28,False,60,66,0,0,0,0
+661,Nicolás Hernán Gonzalo Otamendi,33,Argentina,183,SL Benfica,Defender,30,False,57,62,0,0,0,0
+662,Nicolas Sandro Bürgy,25,Switzerland,185,BSC Young Boys,Defender,14,False,29,43,0,0,0,0
+663,Nicolas Seiwald,20,Austria,179,FC Red Bull Salzburg,Midfielder,13,False,60,67,0,0,0,0
+664,Nicolò Barella,24,Italy,172,Inter,Midfielder,23,False,71,79,0,0,0,0
+665,Nicolò Fagioli,20,Italy,178,Juventus,Midfielder,34,False,59,70,0,0,0,0
+666,Nikita Iosifov,20,Russia,175,Villarreal CF,Midfielder,36,False,62,59,0,0,0,0
+667,Niklas Klinger,25,Germany,187,VfL Wolfsburg,Goalkeeper,30,False,0,0,0,0,0,0
+668,Niklas Moisander,35,Finland,183,Malmö FF,Defender,4,False,49,68,0,0,0,0
+669,Niklas Süle,25,Germany,195,FC Bayern München,Defender,4,False,42,59,0,0,0,0
+670,Nnamdi Collins,17,Germany,188,Borussia Dortmund,Defender,41,False,25,39,0,0,0,0
+671,Noa Noëll Lang,22,Netherlands,179,Club Brugge KV,Midfielder,10,False,74,72,0,0,0,0
+672,Noah Arinzechukwu Okafor,21,Switzerland,185,FC Red Bull Salzburg,Midfielder,77,False,67,63,0,0,0,0
+673,Noah Eile,18,Sweden,195,Malmö FF,Defender,29,False,26,34,0,0,0,0
+674,Norberto Murara Neto,31,Brazil,190,FC Barcelona,Goalkeeper,13,False,0,0,0,0,0,0
+675,Nordi Mukiele Mulere,23,France,187,RB Leipzig,Defender,22,False,49,69,0,0,0,0
+676,Noussair Mazraoui,23,Morocco,183,Ajax,Defender,12,False,61,74,0,0,0,0
+677,Nuno Alexandre Tavares Mendes,19,Portugal,176,Paris Saint-Germain,Defender,25,False,57,68,0,0,0,0
+678,Nuno Miguel Gomes dos Santos,26,Portugal,176,Sporting CP,Forward,11,False,75,75,0,0,0,0
+679,Odisseas Vlachodimos,27,Greece,191,SL Benfica,Goalkeeper,99,False,0,0,0,0,0,0
+680,Ola Toivonen,34,Sweden,192,Malmö FF,Midfielder,11,False,77,75,0,0,0,0
+681,Oleksandr Andrievskyi,27,Ukraine,180,Dynamo Kyiv,Midfielder,18,False,51,62,0,0,0,0
+682,Oleksandr Karavaev,29,Ukraine,175,Dynamo Kyiv,Defender,20,False,54,70,0,0,0,0
+683,Oleksandr Syrota,21,Ukraine,189,Dynamo Kyiv,Defender,34,False,22,38,0,0,0,0
+684,Oleksandr Tymchyk,24,Ukraine,180,Dynamo Kyiv,Defender,24,False,24,53,0,0,0,0
+685,Oleksandr Zinchenko,24,Ukraine,175,Manchester City,Defender,11,False,65,80,0,0,0,0
+686,Oleksiy Shevchenko,29,Ukraine,188,Shakhtar Donetsk,Goalkeeper,1,False,0,0,0,0,0,0
+687,Oliver Batista Meier,20,Germany,178,FC Bayern München,Midfielder,45,False,64,57,0,0,0,0
+688,Óliver Torres Muñoz,26,Spain,175,Sevilla FC,Midfielder,21,False,67,78,0,0,0,0
+689,Olivier Giroud,34,France,193,AC Milan,Forward,9,False,80,70,0,0,0,0
+690,Olivier Maxime Boscagli,23,France,181,PSV,Defender,18,False,33,73,0,0,0,0
+691,Omar Tyrell Crawford Richards,23,England,174,FC Bayern München,Defender,3,False,46,60,0,0,0,0
+692,Orestis Spyridon Karnezis,35,Greece,190,LOSC Lille,Goalkeeper,40,False,0,0,0,0,0,0
+693,Oscar Lewicki,28,Sweden,171,Malmö FF,Midfielder,6,False,54,60,0,0,0,0
+694,Óscar Mingueza García,22,Spain,184,FC Barcelona,Defender,22,False,35,66,0,0,0,0
+695,Óscar Rodríguez Arnaiz,23,Spain,174,Sevilla FC,Midfielder,14,False,74,74,0,0,0,0
+696,Osvaldo Pedro Capemba,19,Angola,171,LOSC Lille,Midfielder,35,False,50,57,0,0,0,0
+697,Otávio Edmilson da Silva Monteiro,26,Portugal,172,FC Porto,Midfielder,25,False,69,79,0,0,0,0
+698,Oumar Mickael Solet Bomawoko,21,France,192,FC Red Bull Salzburg,Defender,22,False,39,54,0,0,0,0
+699,Ousmane Dembélé,24,France,178,FC Barcelona,Forward,7,False,77,77,0,0,0,0
+700,Oussama Idrissi,25,Morocco,175,Sevilla FC,Forward,22,False,76,70,0,0,0,0
+701,Pablo Íñiguez de Heredia Larraz,27,Spain,184,Villarreal CF,Defender,41,False,42,58,0,0,0,0
+702,Pablo Martín Páez Gavira,16,Spain,173,FC Barcelona,Midfielder,30,False,53,67,0,0,0,0
+703,Pablo Pérez Rico,19,Spain,170,Sevilla FC,Defender,40,False,35,51,0,0,0,0
+704,Pablo Sarabia García,29,Spain,174,Sporting CP,Midfielder,17,False,76,81,0,0,0,0
+705,Pau Francisco Torres,24,Spain,191,Villarreal CF,Defender,4,False,38,67,0,0,0,0
+706,Paul Pogba,28,France,191,Manchester United,Midfielder,6,False,81,86,0,0,0,0
+707,Paulo Bruno Exequiel Dybala,27,Argentina,177,Juventus,Midfielder,10,False,86,86,0,0,0,0
+708,Paulo Otávio Rosa da Silva,26,Brazil,174,VfL Wolfsburg,Defender,6,False,55,67,0,0,0,0
+709,Pavao Pervan,33,Austria,194,VfL Wolfsburg,Goalkeeper,12,False,0,0,0,0,0,0
+710,Pedro António Pereira Gonçalves,23,Portugal,173,Sporting CP,Midfielder,28,False,81,79,0,0,0,0
+711,Pedro Antonio Porro Sauceda,21,Spain,176,Sporting CP,Defender,24,False,67,73,0,0,0,0
+712,Pedro González López,18,Spain,174,FC Barcelona,Midfielder,16,False,65,79,0,0,0,0
+713,Pedro Ortiz Bernat,20,Spain,184,Sevilla FC,Midfielder,34,False,55,53,0,0,0,0
+714,Pedro Victor Delmino da Silva,23,Brazil,172,Shakhtar Donetsk,Midfielder,38,False,68,71,0,0,0,0
+715,Perr Schuurs,21,Netherlands,191,Ajax,Defender,3,False,64,70,0,0,0,0
+716,Pervis Josué Estupiñán Tenorio,23,Ecuador,175,Villarreal CF,Defender,12,False,34,68,0,0,0,0
+717,Péter Gulácsi,31,Hungary,191,RB Leipzig,Goalkeeper,1,False,0,0,0,0,0,0
+718,Peter Gwargis,20,Sweden,181,Malmö FF,Forward,21,False,53,59,0,0,0,0
+719,Phil Jones,29,England,185,Manchester United,Defender,4,False,50,60,0,0,0,0
+720,Philip Foden,21,England,171,Manchester City,Midfielder,47,False,78,80,0,0,0,0
+721,Philipp Köhn,23,Switzerland,190,FC Red Bull Salzburg,Goalkeeper,18,False,0,0,0,0,0,0
+722,Philipp Martin Max,27,Germany,177,PSV,Defender,31,False,67,79,0,0,0,0
+723,Philipp Schulze,18,Germany,190,VfL Wolfsburg,Goalkeeper,35,False,0,0,0,0,0,0
+724,Philipp Tschauner,35,Germany,196,RB Leipzig,Goalkeeper,13,False,0,0,0,0,0,0
+725,Philippe Coutinho Correia,29,Brazil,172,FC Barcelona,Midfielder,14,False,79,80,0,0,0,0
+726,Phillipp Mwene,27,Austria,172,PSV,Defender,29,False,43,61,0,0,0,0
+727,Pierre Kazeye Rommel Kalulu Kyatengwa,21,France,184,AC Milan,Defender,20,False,36,58,0,0,0,0
+728,Pietro Pellegri,20,Italy,188,AC Milan,Forward,64,False,67,55,0,0,0,0
+729,Presnel Kimpembe,25,France,189,Paris Saint-Germain,Defender,3,False,42,68,0,0,0,0
+730,Quentin Maceiras Pralong,25,Switzerland,180,BSC Young Boys,Defender,24,False,57,60,0,0,0,0
+731,Rade Krunić,27,Bosnia and Herzegovina,184,AC Milan,Midfielder,33,False,72,74,0,0,0,0
+732,Rafael Alcântara do Nascimento,28,Brazil,174,Paris Saint-Germain,Midfielder,12,False,75,80,0,0,0,0
+733,Rafael Alexandre Conceição Leão,22,Portugal,188,AC Milan,Midfielder,17,False,73,68,0,0,0,0
+734,Rafael Alexandre Fernandes Ferreira da Silva,28,Portugal,170,SL Benfica,Midfielder,27,False,73,74,0,0,0,0
+735,Rafael Mir Vicente,24,Spain,191,Sevilla FC,Forward,12,False,79,64,0,0,0,0
+736,Rafael Tolói,30,Italy,185,Atalanta,Defender,2,False,47,58,0,0,0,0
+737,Raheem Sterling,26,England,170,Manchester City,Forward,7,False,82,79,0,0,0,0
+738,Ramiro Guerra Pereyra,24,Uruguay,183,Villarreal CF,Midfielder,29,False,58,56,0,0,0,0
+739,Raphaël Adelino José Guerreiro,27,Portugal,170,Borussia Dortmund,Defender,13,False,77,85,0,0,0,0
+740,Raphaël Varane,28,France,191,Manchester United,Defender,19,False,49,64,0,0,0,0
+741,Rasmus Lauritsen,25,Denmark,189,Dinamo Zagreb,Defender,6,False,41,58,0,0,0,0
+742,Rasmus Nissen Kristensen,23,Denmark,187,FC Red Bull Salzburg,Defender,43,False,59,68,0,0,0,0
+743,Raúl Albiol Tortajada,35,Spain,190,Villarreal CF,Defender,3,False,41,62,0,0,0,0
+744,Reece James,21,England,178,Chelsea,Defender,24,False,58,77,0,0,0,0
+745,Reinier Jesus Carvalho,19,Brazil,185,Borussia Dortmund,Midfielder,20,False,68,64,0,0,0,0
+746,Reinildo Isnard Mandava,27,Mozambique,180,LOSC Lille,Defender,28,False,54,65,0,0,0,0
+747,Remko Pasveer,37,Netherlands,188,Ajax,Goalkeeper,32,False,0,0,0,0,0,0
+748,Remo Marco Freuler,29,Switzerland,180,Atalanta,Midfielder,11,False,71,77,0,0,0,0
+749,Renan Augusto Lodi dos Santos,23,Brazil,173,Atlético de Madrid,Defender,12,False,67,76,0,0,0,0
+750,Renan Ribeiro,31,Brazil,193,Sporting CP,Goalkeeper,40,False,0,0,0,0,0,0
+751,Renato Júnior Luz Sanches,23,Portugal,176,LOSC Lille,Midfielder,18,False,74,77,0,0,0,0
+752,Renato Steffen,29,Switzerland,170,VfL Wolfsburg,Midfielder,11,False,75,74,0,0,0,0
+753,Ricard Puig Martí,21,Spain,169,FC Barcelona,Midfielder,6,False,61,75,0,0,0,0
+754,Ricardo Sousa Esgaio,28,Portugal,173,Sporting CP,Defender,47,False,67,75,0,0,0,0
+755,Richard Ledezma,20,United States,174,PSV,Midfielder,37,False,59,66,0,0,0,0
+756,Ridle Bote Baku,23,Germany,176,VfL Wolfsburg,Defender,20,False,73,73,0,0,0,0
+757,Riyad Mahrez,30,Algeria,179,Manchester City,Midfielder,26,False,79,81,0,0,0,0
+758,Robert Lewandowski,32,Poland,185,FC Bayern München,Forward,9,False,92,79,0,0,0,0
+759,Roberto Firmino Barbosa de Oliveira,29,Brazil,181,Liverpool,Forward,9,False,78,79,0,0,0,0
+760,Roberto Gagliardini,27,Italy,188,Inter,Midfielder,5,False,63,71,0,0,0,0
+761,Roberto Piccoli,20,Italy,183,Atalanta,Forward,99,False,67,49,0,0,0,0
+762,Robin Everardus Gosens,26,Germany,183,Atalanta,Defender,8,False,75,74,0,0,0,0
+763,Robin Friedrich,18,Germany,173,RB Leipzig,Forward,50,False,63,47,0,0,0,0
+764,Rocco Ascone,17,France,180,LOSC Lille,Midfielder,14,False,47,60,0,0,0,0
+765,Rodrigo Bentancur Colmán,24,Uruguay,187,Juventus,Midfielder,30,False,62,79,0,0,0,0
+766,Rodrigo Cunha Pereira de Pinho,30,Brazil,185,SL Benfica,Forward,18,False,77,60,0,0,0,0
+767,Rodrigo Hernández Cascante,25,Spain,191,Manchester City,Midfielder,16,False,70,77,0,0,0,0
+768,Rodrigo Javier De Paul,27,Argentina,180,Atlético de Madrid,Midfielder,5,False,76,80,0,0,0,0
+769,Rodrygo Silva de Goes,20,Brazil,174,Real Madrid CF,Forward,21,False,76,71,0,0,0,0
+770,Romain Gall,26,United States,175,Malmö FF,Midfielder,18,False,64,57,0,0,0,0
+771,Roman Bürki,30,Switzerland,187,Borussia Dortmund,Goalkeeper,38,False,0,0,0,0,0,0
+772,Roman Yaremchuk,25,Ukraine,191,SL Benfica,Forward,15,False,76,70,0,0,0,0
+773,Romelu Lukaku Menama,28,Belgium,191,Chelsea,Forward,9,False,87,74,0,0,0,0
+774,Romeo Lavia,17,Belgium,181,Manchester City,Midfielder,90,False,41,52,0,0,0,0
+775,Ronald Federico Araújo da Silva,22,Uruguay,192,FC Barcelona,Defender,4,False,36,53,0,0,0,0
+776,Ross Barkley,27,England,189,Chelsea,Midfielder,18,False,73,77,0,0,0,0
+777,Rúben dos Santos Gato Alves Dias,24,Portugal,187,Manchester City,Defender,3,False,38,65,0,0,0,0
+778,Rúben Gonçalo Silva Nascimento Vinagre,22,Portugal,174,Sporting CP,Defender,16,False,55,71,0,0,0,0
+779,Ruben Loftus-Cheek,25,England,191,Chelsea,Midfielder,12,False,67,73,0,0,0,0
+780,Rubén Peña Jiménez,29,Spain,170,Villarreal CF,Defender,20,False,70,72,0,0,0,0
+781,Ruben Providence,19,France,172,Club Brugge KV,Forward,14,False,58,52,0,0,0,0
+782,Ruslan Malinovskyi,28,Ukraine,181,Atalanta,Midfielder,18,False,80,83,0,0,0,0
+783,Ruslan Neshcheret,19,Ukraine,190,Dynamo Kyiv,Goalkeeper,35,False,0,0,0,0,0,0
+784,Ruud Willem Vormer,33,Netherlands,178,Club Brugge KV,Midfielder,25,False,75,79,0,0,0,0
+785,Ryan Jared Thomas,26,New Zealand,174,PSV,Midfielder,30,False,66,73,0,0,0,0
+786,Ryan Jiro Gravenberch,19,Netherlands,190,Ajax,Midfielder,8,False,74,77,0,0,0,0
+787,Saad Agouzoul,23,Morocco,192,LOSC Lille,Defender,23,False,38,53,0,0,0,0
+788,Sadegh Moharrami,25,Iran,174,Dinamo Zagreb,Defender,2,False,30,52,0,0,0,0
+789,Sadio Mané,29,Senegal,175,Liverpool,Forward,10,False,83,80,0,0,0,0
+790,Sam McClelland,19,Northern Ireland,190,Chelsea,Defender,45,False,32,36,0,0,0,0
+791,Samir Handanovič,36,Slovenia,193,Inter,Goalkeeper,1,False,0,0,0,0,0,0
+792,Samuel Castillejo Azuaga,26,Spain,182,AC Milan,Midfielder,7,False,69,74,0,0,0,0
+793,Samuel Chimerenka Chukwueze,22,Nigeria,172,Villarreal CF,Midfielder,11,False,73,66,0,0,0,0
+794,Samuel Edozie,18,England,167,Manchester City,Forward,53,False,55,55,0,0,0,0
+795,Samuel Yves Umtiti,27,France,182,FC Barcelona,Defender,23,False,62,68,0,0,0,0
+796,Sandro Mike Lauper,24,Switzerland,186,BSC Young Boys,Defender,30,False,63,65,0,0,0,0
+797,Sandro Tonali,21,Italy,181,AC Milan,Midfielder,8,False,65,77,0,0,0,0
+798,Saúl Ñíguez Esclápez,26,Spain,184,Chelsea,Midfielder,17,False,78,78,0,0,0,0
+799,Scott Carson,35,England,190,Manchester City,Goalkeeper,33,False,0,0,0,0,0,0
+800,Scott McTominay,24,Scotland,193,Manchester United,Midfielder,39,False,75,75,0,0,0,0
+801,Sean Desmond Klaiber,26,Suriname,184,Ajax,Defender,5,False,64,70,0,0,0,0
+802,Sebastiaan Bornauw,22,Belgium,191,VfL Wolfsburg,Defender,3,False,45,60,0,0,0,0
+803,Sebastián Coates Nión,30,Uruguay,196,Sporting CP,Defender,4,False,49,55,0,0,0,0
+804,Sebastian Nanasi,19,Sweden,178,Malmö FF,Midfielder,37,False,56,50,0,0,0,0
+805,Sébastien Haller,27,Côte d'Ivoire,190,Ajax,Forward,22,False,79,62,0,0,0,0
+806,Sékou Koïta,21,Mali,173,FC Red Bull Salzburg,Forward,20,False,74,62,0,0,0,0
+807,Senne Lammens,18,Belgium,193,Club Brugge KV,Goalkeeper,91,False,0,0,0,0,0,0
+808,Serge David Gnabry,25,Germany,176,FC Bayern München,Midfielder,7,False,84,79,0,0,0,0
+809,Sergiño Gianni Dest,20,United States,175,FC Barcelona,Defender,2,False,59,72,0,0,0,0
+810,Sergio Arribas Calvo,19,Spain,173,Real Madrid CF,Midfielder,30,False,53,56,0,0,0,0
+811,Sergio Asenjo Andrés,32,Spain,189,Villarreal CF,Goalkeeper,1,False,0,0,0,0,0,0
+812,Sergio Busquets i Burgos,32,Spain,189,FC Barcelona,Midfielder,5,False,62,79,0,0,0,0
+813,Sergio Camus Perojo,24,Spain,176,Atlético de Madrid,Defender,38,False,47,56,0,0,0,0
+814,Sergio Fernando Peña Flores,25,Peru,178,Malmö FF,Midfielder,8,False,68,76,0,0,0,0
+815,Sergio Guerrero Romero,22,Spain,174,Atlético de Madrid,Midfielder,30,False,51,64,0,0,0,0
+816,Sergio Leonel Agüero del Castillo,33,Argentina,173,FC Barcelona,Forward,19,False,89,75,0,0,0,0
+817,Sergio Lozano Lluch,22,Spain,175,Villarreal CF,Midfielder,38,False,51,62,0,0,0,0
+818,Sérgio Miguel Relvas de Oliveira,29,Portugal,181,FC Porto,Midfielder,27,False,79,82,0,0,0,0
+819,Sergio Ramos García,35,Spain,184,Paris Saint-Germain,Defender,4,False,70,76,0,0,0,0
+820,Sergio Rico González,27,Spain,196,Paris Saint-Germain,Goalkeeper,16,False,0,0,0,0,0,0
+821,Sergio Roberto Carnicer,29,Spain,178,FC Barcelona,Defender,20,False,63,80,0,0,0,0
+822,Sergiy Kryvtsov,30,Ukraine,186,Shakhtar Donetsk,Defender,4,False,44,51,0,0,0,0
+823,Serhiy Sydorchuk,30,Ukraine,189,Dynamo Kyiv,Midfielder,5,False,68,67,0,0,0,0
+824,Shola Maxwell Shoretire,17,England,175,Manchester United,Midfielder,47,False,56,56,0,0,0,0
+825,Silvan Hefti,23,Switzerland,183,BSC Young Boys,Defender,36,False,49,64,0,0,0,0
+826,Šime Vrsaljko,29,Croatia,181,Atlético de Madrid,Defender,24,False,55,73,0,0,0,0
+827,Simon Luc Hildebert Mignolet,33,Belgium,193,Club Brugge KV,Goalkeeper,22,False,0,0,0,0,0,0
+828,Simon Thorup Kjær,32,Denmark,190,AC Milan,Defender,24,False,55,64,0,0,0,0
+829,Søren Krukow Rieks,34,Denmark,185,Malmö FF,Forward,5,False,68,65,0,0,0,0
+830,Soualiho Meïté,27,France,187,SL Benfica,Midfielder,11,False,59,73,0,0,0,0
+831,Soumaila Coulibaly,17,France,190,Borussia Dortmund,Defender,4,False,36,48,0,0,0,0
+832,Stanley Pierre N'Soki,22,France,184,Club Brugge KV,Defender,4,False,38,59,0,0,0,0
+833,Stefan de Vrij,29,Netherlands,189,Inter,Defender,6,False,41,64,0,0,0,0
+834,Stefan Ristovski,29,North Macedonia,180,Dinamo Zagreb,Defender,13,False,61,67,0,0,0,0
+835,Stefan Savić,30,Montenegro,187,Atlético de Madrid,Defender,15,False,35,57,0,0,0,0
+836,Stefano Sensi,25,Italy,168,Inter,Midfielder,12,False,60,83,0,0,0,0
+837,Steffen Tigges,22,Germany,193,Borussia Dortmund,Forward,27,False,67,55,0,0,0,0
+838,Steven Berghuis,29,Netherlands,182,Ajax,Forward,23,False,81,82,0,0,0,0
+839,Sven Botman,21,Netherlands,193,LOSC Lille,Defender,4,False,36,59,0,0,0,0
+840,Sven Ulreich,32,Germany,192,FC Bayern München,Goalkeeper,26,False,0,0,0,0,0,0
+841,Tanguy-Austin Nianzou Kouassi,19,France,187,FC Bayern München,Defender,23,False,37,55,0,0,0,0
+842,Taras Stepanenko,31,Ukraine,181,Shakhtar Donetsk,Midfielder,6,False,63,71,0,0,0,0
+843,Tariq Uwakwe,21,England,183,Chelsea,Defender,53,False,52,55,0,0,0,0
+844,Taylor Anthony Booth,20,United States,174,FC Bayern München,Midfielder,37,False,59,61,0,0,0,0
+845,Teden Mengi,19,England,183,Manchester United,Defender,43,False,39,54,0,0,0,0
+846,Teun Koopmeiners,23,Netherlands,183,Atalanta,Defender,7,False,72,79,0,0,0,0
+847,Theo Bernard François Hernández,23,France,184,AC Milan,Defender,19,False,71,76,0,0,0,0
+848,Theoson-Jordan Siebatcheu Pefok,25,United States,190,BSC Young Boys,Forward,17,False,71,59,0,0,0,0
+849,Thiago Alcântara do Nascimento,30,Spain,174,Liverpool,Midfielder,6,False,72,86,0,0,0,0
+850,Thiago Emiliano da Silva,36,Brazil,183,Chelsea,Defender,6,False,54,72,0,0,0,0
+851,Thibaut Courtois,29,Belgium,199,Real Madrid CF,Goalkeeper,1,False,0,0,0,0,0,0
+852,Thomas Clayton,20,Scotland,183,Liverpool,Defender,57,False,32,40,0,0,0,0
+853,Thomas Joseph Delaney,29,Denmark,182,Sevilla FC,Midfielder,18,False,71,74,0,0,0,0
+854,Thomas Lemar,25,France,171,Atlético de Madrid,Midfielder,11,False,76,82,0,0,0,0
+855,Thomas Meunier,29,Belgium,191,Borussia Dortmund,Defender,24,False,74,72,0,0,0,0
+856,Thomas Müller,31,Germany,185,FC Bayern München,Midfielder,25,False,84,83,0,0,0,0
+857,Thorgan Hazard,28,Belgium,175,Borussia Dortmund,Midfielder,10,False,76,80,0,0,0,0
+858,Tiago Barreiros de Melo Tomás,19,Portugal,183,Sporting CP,Forward,19,False,70,56,0,0,0,0
+859,Tiago Emanuel Embaló Djaló,21,Portugal,190,LOSC Lille,Defender,3,False,42,60,0,0,0,0
+860,Tibo Persyn,19,Belgium,179,Club Brugge KV,Defender,16,False,62,62,0,0,0,0
+861,Tiemoué Bakayoko,26,France,189,AC Milan,Midfielder,99,False,48,68,0,0,0,0
+862,Timo Werner,25,Germany,180,Chelsea,Forward,11,False,81,70,0,0,0,0
+863,Timothy Tarpeh Weah,21,United States,183,LOSC Lille,Midfielder,22,False,71,67,0,0,0,0
+864,Tobias Raschl,21,Germany,177,Borussia Dortmund,Midfielder,37,False,53,64,0,0,0,0
+865,Tom Heaton,35,England,188,Manchester United,Goalkeeper,22,False,0,0,0,0,0,0
+866,Tomasz Karol Kędziora,27,Poland,183,Dynamo Kyiv,Defender,94,False,46,67,0,0,0,0
+867,Toni Kroos,31,Germany,183,Real Madrid CF,Midfielder,8,False,81,91,0,0,0,0
+868,Trent Alexander-Arnold,22,England,180,Liverpool,Defender,66,False,68,88,0,0,0,0
+869,Trevoh Chalobah,21,England,191,Chelsea,Defender,14,False,43,63,0,0,0,0
+870,Tyler Shaan Adams,22,United States,175,RB Leipzig,Defender,14,False,48,70,0,0,0,0
+871,Ulisses Alexandre Garcia Lopes,25,Switzerland,183,BSC Young Boys,Defender,21,False,42,61,0,0,0,0
+872,Valentino Lazaro,25,Austria,180,SL Benfica,Defender,22,False,69,75,0,0,0,0
+873,Valeriy Bondar,22,Ukraine,184,Shakhtar Donetsk,Defender,77,False,30,50,0,0,0,0
+874,Veljko Birmančević,23,Serbia,179,Malmö FF,Forward,19,False,65,60,0,0,0,0
+875,Vicente Iborra de la Fuente,33,Spain,190,Villarreal CF,Midfielder,10,False,70,75,0,0,0,0
+876,Victor Christoffer Jensen,21,Denmark,175,Ajax,Midfielder,26,False,58,63,0,0,0,0
+877,Victor Jörgen Nilsson Lindelöf,26,Sweden,187,Manchester United,Defender,2,False,51,73,0,0,0,0
+878,Viktor Korniienko,22,Ukraine,175,Shakhtar Donetsk,Defender,44,False,43,71,0,0,0,0
+879,Viktor Tsygankov,23,Ukraine,178,Dynamo Kyiv,Midfielder,15,False,73,78,0,0,0,0
+880,Vilmos Tamás Orban,28,Hungary,186,RB Leipzig,Defender,4,False,36,52,0,0,0,0
+881,Vincent Carsten Maria Müller,20,Germany,190,PSV,Goalkeeper,13,False,0,0,0,0,0,0
+882,Vincent Olivier Sierro,25,Switzerland,187,BSC Young Boys,Midfielder,8,False,59,65,0,0,0,0
+883,Vinícius José Paixão de Oliveira Júnior,20,Brazil,176,Real Madrid CF,Forward,20,False,70,71,0,0,0,0
+884,Virgil van Dijk,29,Netherlands,193,Liverpool,Defender,4,False,60,71,0,0,0,0
+885,Vitaliy Buyalskyi,28,Ukraine,175,Dynamo Kyiv,Midfielder,29,False,69,72,0,0,0,0
+886,Vitaliy Mykolenko,22,Ukraine,180,Dynamo Kyiv,Defender,16,False,44,62,0,0,0,0
+887,Vitor Eduardo da Silva Matos,21,Brazil,186,Shakhtar Donetsk,Defender,49,False,33,48,0,0,0,0
+888,Vítor Machado Ferreira,21,Portugal,172,FC Porto,Midfielder,20,False,57,67,0,0,0,0
+889,Vladyslav Kulach,28,Ukraine,178,Dynamo Kyiv,Forward,28,False,63,50,0,0,0,0
+890,Vladyslav Supriaha,21,Ukraine,182,Dynamo Kyiv,Forward,89,False,70,50,0,0,0,0
+891,Volodymyr Shepelev,24,Ukraine,184,Dynamo Kyiv,Midfielder,8,False,63,62,0,0,0,0
+892,Wendell Nascimento Borges,27,Brazil,176,FC Porto,Defender,22,False,49,70,0,0,0,0
+893,Wesley Moraes Ferreira da Silva,24,Brazil,191,Club Brugge KV,Forward,7,False,76,67,0,0,0,0
+894,Weston James Earl McKennie,22,United States,183,Juventus,Midfielder,14,False,71,74,0,0,0,0
+895,William de Asevedo Furtado,26,Brazil,171,VfL Wolfsburg,Defender,2,False,50,68,0,0,0,0
+896,Wilson Miguéis Manafá Jancó,26,Portugal,177,FC Porto,Defender,18,False,60,67,0,0,0,0
+897,Wojciech Tomasz Szczęsny,31,Poland,195,Juventus,Goalkeeper,1,False,0,0,0,0,0,0
+898,Wout Weghorst,28,Netherlands,197,VfL Wolfsburg,Forward,9,False,83,59,0,0,0,0
+899,Xaver Schlager,23,Austria,174,VfL Wolfsburg,Midfielder,24,False,70,73,0,0,0,0
+900,Xavi Simons,18,Netherlands,168,Paris Saint-Germain,Midfielder,34,False,57,66,0,0,0,0
+901,Yannick Ferreira Carrasco,27,Belgium,185,Atlético de Madrid,Midfielder,21,False,81,78,0,0,0,0
+902,Yannick Gerhardt,27,Germany,184,VfL Wolfsburg,Midfielder,31,False,71,75,0,0,0,0
+903,Yassine Bounou,30,Morocco,192,Sevilla FC,Goalkeeper,13,False,0,0,0,0,0,0
+904,Yeremi Jesús Santos Pino,18,Spain,172,Villarreal CF,Midfielder,21,False,66,70,0,0,0,0
+905,Yevhen Konoplyanka,31,Ukraine,178,Shakhtar Donetsk,Midfielder,70,False,72,68,0,0,0,0
+906,Yorbe Vertessen,20,Belgium,176,PSV,Midfielder,32,False,62,62,0,0,0,0
+907,Youri Baas,18,Netherlands,182,Ajax,Defender,35,False,34,54,0,0,0,0
+908,Youssef En-Nesyri,24,Morocco,188,Sevilla FC,Forward,15,False,83,58,0,0,0,0
+909,Yukhym Konoplia,21,Ukraine,180,Shakhtar Donetsk,Defender,26,False,42,50,0,0,0,0
+910,Yussuf Yurary Poulsen,27,Denmark,192,RB Leipzig,Forward,9,False,70,67,0,0,0,0
+911,Yusuf Demir,18,Austria,173,FC Barcelona,Midfielder,11,False,66,65,0,0,0,0
+912,Yusuf Yazıcı,24,Turkey,185,LOSC Lille,Midfielder,11,False,76,79,0,0,0,0
+913,Yvon Landry Mvogo Nganoma,27,Switzerland,189,PSV,Goalkeeper,38,False,0,0,0,0,0,0
+914,Zack Thomas Steffen,26,United States,191,Manchester City,Goalkeeper,13,False,0,0,0,0,0,0
+915,Zaidu Sanusi,24,Nigeria,182,FC Porto,Defender,12,False,36,57,0,0,0,0
+916,Zakaria Labyad,28,Morocco,175,Ajax,Midfielder,19,False,75,76,0,0,0,0
+917,Zlatan Ibrahimović,39,Sweden,195,AC Milan,Forward,11,False,87,78,0,0,0,0
+918,Zlatko Junuzović,33,Austria,172,FC Red Bull Salzburg,Midfielder,16,False,73,79,0,0,0,0
+919,Zouhair Feddal Agharbi,31,Morocco,192,Sporting CP,Defender,3,False,50,63,0,0,0,0
+920,中井 卓大,17,Japan,178,Real Madrid CF,Midfielder,31,False,50,60,0,0,0,0
+921,南野 拓実,26,Japan,174,Liverpool,Midfielder,18,False,73,69,0,0,0,0
+922,堂安 律,23,Japan,172,PSV,Midfielder,25,False,70,72,0,0,0,0
+923,安部 裕葵,22,Japan,171,FC Barcelona,Midfielder,35,False,61,56,0,0,0,0
