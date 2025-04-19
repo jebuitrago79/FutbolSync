@@ -5,25 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3227309b-f553-4b8d-a54f-d5902a622021" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/FutbolSync.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/attacking_1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/defending_1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/disciplynary_1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/goalkeeping_1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jugador.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jugador.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/key_stats_1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/operations_jugador.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/player.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players_equipos_europeos_22.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/team.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_main.http" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRUD_database_jugador.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRUD_database_player.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db_jugador2.0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operations_database.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attacking_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/defending_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/disciplynary_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/goalkeeping_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jugador.py" beforeDir="false" afterPath="$PROJECT_DIR$/jugador.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/player.py" beforeDir="false" afterPath="$PROJECT_DIR$/player.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,8 +36,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/CRUD_database_jugador.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/CRUD_database_player.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/db_jugador2.0.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/jugador.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/operations_database.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/operations_jugador.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/player.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/team.py" root0="SKIP_INSPECTION" />
@@ -62,10 +59,12 @@
   &quot;keyToString&quot;: {
     &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;FastAPI.FutbolSync.executor&quot;: &quot;Run&quot;,
+    &quot;Python.db_jugador2.0.executor&quot;: &quot;Run&quot;,
+    &quot;Python.db_player.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;last_opened_file_path&quot;: &quot;/home/julian/PycharmProjects/FutbolSync&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -81,7 +80,53 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="FastAPI.FutbolSync">
+    <configuration name="db_jugador2.0" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FutbolSync" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/db_jugador2.0.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="db_player" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FutbolSync" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/db_player.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="FutbolSync" type="Python.FastAPI">
       <option name="additionalOptions" value="--reload --port 8001" />
       <option name="file" value="$PROJECT_DIR$/main.py" />
@@ -99,6 +144,12 @@
       <option name="launchJavascriptDebuger" value="false" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.db_jugador2.0" />
+        <item itemvalue="Python.db_player" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -125,6 +176,8 @@
       <workItem from="1744129588659" duration="1506000" />
       <workItem from="1744139346086" duration="969000" />
       <workItem from="1744248226695" duration="11100000" />
+      <workItem from="1744381312329" duration="8242000" />
+      <workItem from="1745033042472" duration="342000" />
     </task>
     <servers />
   </component>
@@ -132,6 +185,8 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/FutbolSync$FutbolSync.coverage" NAME="FutbolSync Coverage Results" MODIFIED="1744130200824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/FutbolSync$FutbolSync.coverage" NAME="FutbolSync Coverage Results" MODIFIED="1744389641846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/FutbolSync$db_jugador2_0.coverage" NAME="db_jugador2.0 Coverage Results" MODIFIED="1744387309155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FutbolSync$db_player.coverage" NAME="db_player Coverage Results" MODIFIED="1744385547390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

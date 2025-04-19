@@ -1,14 +1,12 @@
-from dataclasses import Field
+from pydantic import BaseModel
 
-from pydantic import BaseModel,Field
-from jugador import *
-class playerF(BaseModel):
-#Estadsiticas de valoracion efootball
-    overall:float
-    power_shot:float
-    speed:float
-    passing:float
-    shooting:float
-    defending:float
-    physical:float
+class PlayerF(BaseModel):
+    id: int
+    name: str
+    age: int
+    nationality: str
+    team: str
+    position: str
 
+    class Config:
+        from_attributes = True  # Asegúrate de usar 'from_attributes' en vez de 'orm_mode'
