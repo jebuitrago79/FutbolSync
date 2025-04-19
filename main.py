@@ -12,6 +12,16 @@ app = FastAPI()
 def read_root():
     return {"message": "HOLA PROYECTO FutbolSync!"}
 
+
+async def cargar_jugadores():
+    jugadores = read_jugadores_from_csv()
+    async with AsyncSessionLocal() as session:
+        for jugador in jugadores:
+            try:
+                await new_jugador(jugador.dict(), session)
+            except Exception as e:
+                print(f"NO SE PUDO INSERTAR{jugador.name}:{e}")
+
 # Endpoint: Crear un nuevo jugador
 @app.post("/jugadores/", response_model=Jugador)
 def create_jugador(jugador: Jugador):
@@ -92,5 +102,4 @@ def delete_playerf(playerf_id: int):
     if not result:
         raise HTTPException(status_code=404, detail="Valoración de jugador no encontrada")
     return {"message": "Valoración de jugador eliminada correctamente"}
-
 

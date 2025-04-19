@@ -5,9 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3227309b-f553-4b8d-a54f-d5902a622021" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUD_database_jugador.py" beforeDir="false" afterPath="$PROJECT_DIR$/CRUD_database_jugador.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jugador.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CRUD_database_player.py" beforeDir="false" afterPath="$PROJECT_DIR$/CRUD_database_player.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_jugador2.0.py" beforeDir="false" afterPath="$PROJECT_DIR$/db_jugador2.0.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jugadores.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operations_database.py" beforeDir="false" afterPath="$PROJECT_DIR$/operations_database.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operations_jugador.py" beforeDir="false" afterPath="$PROJECT_DIR$/operations_jugador.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/player.py" beforeDir="false" afterPath="$PROJECT_DIR$/player.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,7 +175,7 @@
       <workItem from="1744139346086" duration="969000" />
       <workItem from="1744248226695" duration="11100000" />
       <workItem from="1744381312329" duration="8242000" />
-      <workItem from="1745033042472" duration="1436000" />
+      <workItem from="1745033042472" duration="2929000" />
     </task>
     <servers />
   </component>
@@ -176,8 +183,8 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/FutbolSync$FutbolSync.coverage" NAME="FutbolSync Coverage Results" MODIFIED="1744389641846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/FutbolSync$db_jugador2_0.coverage" NAME="db_jugador2.0 Coverage Results" MODIFIED="1744387309155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FutbolSync$FutbolSync.coverage" NAME="FutbolSync Coverage Results" MODIFIED="1745035556424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/FutbolSync$db_jugador2_0.coverage" NAME="db_jugador2.0 Coverage Results" MODIFIED="1745035477971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/FutbolSync$db_player.coverage" NAME="db_player Coverage Results" MODIFIED="1744385547390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
